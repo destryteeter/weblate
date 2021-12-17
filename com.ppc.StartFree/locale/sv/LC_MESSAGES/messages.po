@@ -1,0 +1,4009 @@
+
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2021-04-30 15:15-0700\n"
+"PO-Revision-Date: 2021-02-09 16:07-0800\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: sv\n"
+"Language-Team: sv <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.0\n"
+
+#. Super abstract device type name
+#: ../.com.ppc.StartFree/devices/device.py:270
+msgid "Device"
+msgstr ""
+
+#. Abstract device type name, doesn't show up in end user documentation
+#: ../.com.ppc.StartFree/devices/button/button.py:66
+#: ../.com.ppc.StartFree/devices/button/button_develco.py:51
+#: ../.com.ppc.StartFree/devices/button/button_linkhigh.py:60
+msgid "Button"
+msgstr ""
+
+#. Abstract device type name, doesn't show up in end user documentation
+#: ../.com.ppc.StartFree/devices/button/button_multi.py:62
+#: ../.com.ppc.StartFree/devices/button/button_panic.py:48
+msgid "Assist Button"
+msgstr ""
+
+#. Abstract device type name, doeesn't show up in end user documentation
+#: ../.com.ppc.StartFree/devices/camera/camera.py:24
+msgid "Camera"
+msgstr ""
+
+#. This is an abstract name of a camera device that doesn't show up in end-user
+#. documentation.
+#: ../.com.ppc.StartFree/devices/camera/camera_peoplepower_presence.py:96
+msgid "Presence Camera"
+msgstr ""
+
+#. Device type name
+#: ../.com.ppc.StartFree/devices/camera/camera_peoplepower_presenceandroid.py:22
+msgid "Android Camera"
+msgstr ""
+
+#. Device type name
+#: ../.com.ppc.StartFree/devices/camera/camera_peoplepower_presenceios.py:22
+msgid "iOS Camera"
+msgstr ""
+
+#. Device type name
+#: ../.com.ppc.StartFree/devices/entry/entry.py:62
+msgid "Entry Sensor"
+msgstr ""
+
+#. Device type name
+#: ../.com.ppc.StartFree/devices/environment/temperature.py:37
+msgid "Temperature Sensor"
+msgstr ""
+
+#. Device type name
+#: ../.com.ppc.StartFree/devices/environment/temperaturehumidity.py:58
+msgid "Temperature and Humidity Sensor"
+msgstr ""
+
+#. Device type name
+#: ../.com.ppc.StartFree/devices/gas/carbon_monoxide.py:35
+msgid "Carbon Monoxide Sensor"
+msgstr ""
+
+#. Abstract device type name
+#. Device type name
+#. Device type name.
+#: ../.com.ppc.StartFree/devices/gateway/gateway.py:26
+#: ../.com.ppc.StartFree/devices/gateway/gateway_develco_squidlink.py:39
+#: ../.com.ppc.StartFree/devices/gateway/gateway_peoplepower_edge.py:26
+#: ../.com.ppc.StartFree/devices/gateway/gateway_peoplepower_iotgateway.py:26
+#: ../.com.ppc.StartFree/devices/gateway/gateway_peoplepower_xseries.py:28
+#: ../.com.ppc.StartFree/devices/gateway/gateway_qorvo_lcgw.py:24
+msgid "Smart Home Center"
+msgstr ""
+
+#. Device type name
+#: ../.com.ppc.StartFree/devices/gateway/gateway_peoplepower_mseries.py:26
+msgid "M-Series Smart Home Center"
+msgstr ""
+
+#. Abstract device type name, doesn't show up in end user documentation
+#: ../.com.ppc.StartFree/devices/io/io.py:55
+msgid "IO Module"
+msgstr ""
+
+#. Device type name
+#: ../.com.ppc.StartFree/devices/keypad/keypad.py:50
+#: ../.com.ppc.StartFree/devices/keypad/keypad_develco.py:89
+msgid "Keypad"
+msgstr ""
+
+#. Device type name
+#: ../.com.ppc.StartFree/devices/leak/leak.py:39
+#: ../.com.ppc.StartFree/devices/leak/leak_develco.py:54
+msgid "Leak Sensor"
+msgstr ""
+
+#. Device type name
+#: ../.com.ppc.StartFree/devices/light/light.py:82
+msgid "Light"
+msgstr ""
+
+#. Device type name
+#: ../.com.ppc.StartFree/devices/light/lightswitch_ge.py:42
+msgid "GE In-Wall Switch"
+msgstr ""
+
+#. Device type name
+#: ../.com.ppc.StartFree/devices/light/lightswitch_leviton_decora.py:42
+msgid "Leviton Decora In-Wall Switch"
+msgstr ""
+
+#. Abstract device type name, doesn't show up in end user documentation
+#: ../.com.ppc.StartFree/devices/lock/lock.py:59
+msgid "Lock"
+msgstr ""
+
+#. Device type name
+#: ../.com.ppc.StartFree/devices/motion/motion.py:49
+msgid "Motion Sensor"
+msgstr ""
+
+#. Device type name
+#: ../.com.ppc.StartFree/devices/movement/touch.py:47
+msgid "Touch Sensor"
+msgstr ""
+
+#. Device type name
+#: ../.com.ppc.StartFree/devices/pictureframe/pictureframe_peoplepower.py:107
+msgid "Picture Frame"
+msgstr ""
+
+#. Device type name
+#: ../.com.ppc.StartFree/devices/pictureframe/pictureframe_peoplepower_android.py:24
+msgid "Android Picture Frame"
+msgstr ""
+
+#. Device type name
+#: ../.com.ppc.StartFree/devices/pictureframe/pictureframe_peoplepower_ios.py:24
+msgid "iOS Picture Frame"
+msgstr ""
+
+#: ../.com.ppc.StartFree/devices/pressure/pressure.py:56
+msgid "Pressure Pad"
+msgstr ""
+
+#. Device type name
+#: ../.com.ppc.StartFree/devices/siren/siren.py:36
+msgid "Siren"
+msgstr ""
+
+#. Device type name
+#: ../.com.ppc.StartFree/devices/smartplug/smartcable_develco.py:21
+msgid "Smart Cable"
+msgstr ""
+
+#. Device type name - abstract smart plug
+#. Device type name - Centralte 3-series smart plug
+#. Device type name
+#: ../.com.ppc.StartFree/devices/smartplug/smartplug.py:65
+#: ../.com.ppc.StartFree/devices/smartplug/smartplug_centralite_3series.py:26
+#: ../.com.ppc.StartFree/devices/smartplug/smartplug_develco.py:21
+msgid "Smart Plug"
+msgstr ""
+
+#. Device type name - Smartenit Large Load Controller
+#: ../.com.ppc.StartFree/devices/smartplug/smartplug_smartenit_largeload.py:31
+msgid "Large Load Controller"
+msgstr ""
+
+#: ../.com.ppc.StartFree/devices/thermostat/thermostat.py:237
+#: ../.com.ppc.StartFree/devices/thermostat/thermostat.py:314
+msgid "'{}' now set to {}"
+msgstr ""
+
+#: ../.com.ppc.StartFree/devices/thermostat/thermostat.py:238
+msgid "Your '{}' is set to {}."
+msgstr ""
+
+#: ../.com.ppc.StartFree/devices/thermostat/thermostat.py:264
+#: ../.com.ppc.StartFree/devices/thermostat/thermostat.py:328
+msgid "Cooling set point adjusted"
+msgstr ""
+
+#: ../.com.ppc.StartFree/devices/thermostat/thermostat.py:265
+msgid "Your '{}' cooling set point is set to {}."
+msgstr ""
+
+#: ../.com.ppc.StartFree/devices/thermostat/thermostat.py:293
+#: ../.com.ppc.StartFree/devices/thermostat/thermostat.py:343
+msgid "Heating set point adjusted"
+msgstr ""
+
+#: ../.com.ppc.StartFree/devices/thermostat/thermostat.py:294
+msgid "Your '{}' heating set point is set to {}."
+msgstr ""
+
+#: ../.com.ppc.StartFree/devices/thermostat/thermostat.py:315
+msgid "Your '{}' is now set to {}."
+msgstr ""
+
+#: ../.com.ppc.StartFree/devices/thermostat/thermostat.py:329
+msgid "Your '{}' cooling set point was manually adjusted to {}."
+msgstr ""
+
+#: ../.com.ppc.StartFree/devices/thermostat/thermostat.py:344
+msgid "Your '{}' heating set point was manually adjusted to {}."
+msgstr ""
+
+#: ../.com.ppc.StartFree/devices/thermostat/thermostat.py:543
+msgid "'{}': Learned HOME cooling set point."
+msgstr ""
+
+#: ../.com.ppc.StartFree/devices/thermostat/thermostat.py:544
+msgid ""
+"Your '{}' learned you want the cooling set point set to {} when you are "
+"home."
+msgstr ""
+
+#: ../.com.ppc.StartFree/devices/thermostat/thermostat.py:555
+msgid "'{}': Learned HOME heating set point."
+msgstr ""
+
+#: ../.com.ppc.StartFree/devices/thermostat/thermostat.py:556
+msgid ""
+"Your '{}' learned you want the heating set point set to {} when you are "
+"home."
+msgstr ""
+
+#: ../.com.ppc.StartFree/devices/thermostat/thermostat.py:600
+#: ../.com.ppc.StartFree/devices/thermostat/thermostat.py:638
+#: ../.com.ppc.StartFree/devices/thermostat/thermostat.py:739
+msgid "'{}': Learned night time preferences."
+msgstr ""
+
+#: ../.com.ppc.StartFree/devices/thermostat/thermostat.py:601
+msgid "Your '{}' learned the night time cooling setpoint."
+msgstr ""
+
+#: ../.com.ppc.StartFree/devices/thermostat/thermostat.py:639
+msgid "Your '{}' learned the night time heating setpoint."
+msgstr ""
+
+#: ../.com.ppc.StartFree/devices/thermostat/thermostat.py:695
+msgid "'{}': Learned away preferences."
+msgstr ""
+
+#: ../.com.ppc.StartFree/devices/thermostat/thermostat.py:696
+msgid "Your '{}' learned the away cooling setpoint should be {} from HOME mode."
+msgstr ""
+
+#: ../.com.ppc.StartFree/devices/thermostat/thermostat.py:740
+msgid "Your '{}' learned the away heating setpoint should be {} from HOME mode."
+msgstr ""
+
+#: ../.com.ppc.StartFree/devices/thermostat/thermostat.py:958
+msgid "'{}': Applying energy policies"
+msgstr ""
+
+#: ../.com.ppc.StartFree/devices/thermostat/thermostat.py:959
+msgid "Your new cooling set point is {} and heating setpoint is {}."
+msgstr ""
+
+#. Device type name
+#: ../.com.ppc.StartFree/devices/thermostat/thermostat_centralite_pearl.py:69
+msgid "Centralite Pearl Thermostat"
+msgstr ""
+
+#. Device type name
+#: ../.com.ppc.StartFree/devices/thermostat/thermostat_ecobee.py:74
+msgid "Ecobee"
+msgstr ""
+
+#: ../.com.ppc.StartFree/devices/thermostat/thermostat_ecobee.py:126
+#: ../.com.ppc.StartFree/devices/thermostat/thermostat_ecobee.py:223
+msgid "'{}': Sleep mode"
+msgstr ""
+
+#: ../.com.ppc.StartFree/devices/thermostat/thermostat_ecobee.py:127
+#: ../.com.ppc.StartFree/devices/thermostat/thermostat_ecobee.py:224
+msgid "Setting your ecobee thermostat into Sleep mode."
+msgstr ""
+
+#: ../.com.ppc.StartFree/devices/thermostat/thermostat_ecobee.py:150
+#: ../.com.ppc.StartFree/devices/thermostat/thermostat_ecobee.py:189
+msgid "'{}': Away mode"
+msgstr ""
+
+#: ../.com.ppc.StartFree/devices/thermostat/thermostat_ecobee.py:151
+#: ../.com.ppc.StartFree/devices/thermostat/thermostat_ecobee.py:190
+msgid "Setting your ecobee thermostat into Away mode."
+msgstr ""
+
+#: ../.com.ppc.StartFree/devices/thermostat/thermostat_ecobee.py:264
+msgid "'{}': Home mode"
+msgstr ""
+
+#: ../.com.ppc.StartFree/devices/thermostat/thermostat_ecobee.py:265
+msgid "Setting your ecobee thermostat into Home mode."
+msgstr ""
+
+#. Device type name
+#: ../.com.ppc.StartFree/devices/thermostat/thermostat_emerson_thermostat.py:38
+msgid "Emerson Thermostat"
+msgstr ""
+
+#. Device type name
+#: ../.com.ppc.StartFree/devices/thermostat/thermostat_honeywell_lyric.py:38
+msgid "Honeywell Lyric Thermostat"
+msgstr ""
+
+#. Device type name
+#: ../.com.ppc.StartFree/devices/thermostat/thermostat_sensibo_sky.py:57
+msgid "Sensibo Sky Thermostat"
+msgstr ""
+
+#. Device type name
+#: ../.com.ppc.StartFree/devices/touchpad/touchpad_peoplepower.py:76
+msgid "Touchpad"
+msgstr ""
+
+#. Abstract device type name, doesn't show up in end user documentation
+#: ../.com.ppc.StartFree/devices/vayyar/vayyar.py:49
+msgid "Vayyar Home"
+msgstr ""
+
+#. Device type name
+#: ../.com.ppc.StartFree/devices/vibration/vibration.py:77
+msgid "Vibration Sensor"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/collections/location_collections_microservice.py:65
+msgid "Manage settings to provide care for others."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/collections/location_collections_microservice.py:70
+msgid "Monitor medication adherence."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/collections/location_collections_microservice.py:75
+msgid "Connect people."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/collections/location_collections_microservice.py:80
+msgid "Manage settings for your security system."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/collections/location_collections_microservice.py:85
+msgid "Manage settings that save energy."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/collections/location_collections_microservice.py:90
+msgid "Manage settings for home automation."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/collections/location_collections_microservice.py:95
+msgid "Manage settings for the emergency call center"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/collections/location_collections_microservice.py:100
+msgid "Manage demos."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/conversations/location_conversation_microservice.py:178
+#: ../.com.ppc.StartFree/intelligence/conversations/location_conversation_microservice.py:179
+msgid "What do you think caused the last alert?"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/conversations/location_conversation_microservice.py:185
+#: ../.com.ppc.StartFree/intelligence/conversations/location_conversation_microservice.py:186
+msgid "Do you feel {} did a good job on the last alert? (1=Yes | 2=No)"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/conversations/location_conversation_microservice.py:354
+msgid "Emergency Call Center will be contacted soon."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/conversations/location_conversation_microservice.py:407
+msgid "Thanks for capturing notes!"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/conversations/location_conversation_microservice.py:413
+msgid ""
+"To help others discover {}, we would appreciate you taking a moment to "
+"review the {} app on the App Store."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/conversations/location_conversation_microservice.py:416
+#: ../.com.ppc.StartFree/intelligence/conversations/location_conversation_microservice.py:722
+#: ../.com.ppc.StartFree/intelligence/sms_invite/location_smsinvite_microservice.py:235
+#: ../.com.ppc.StartFree/intelligence/sms_invite/location_smsinvite_microservice.py:287
+#: ../.com.ppc.StartFree/intelligence/tasks/location_tasks_microservice.py:326
+#: ../.com.ppc.StartFree/intelligence/welcome/location_welcome_microservice.py:208
+msgid "iPhone / iPad"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/conversations/location_conversation_microservice.py:419
+#: ../.com.ppc.StartFree/intelligence/conversations/location_conversation_microservice.py:726
+#: ../.com.ppc.StartFree/intelligence/sms_invite/location_smsinvite_microservice.py:239
+#: ../.com.ppc.StartFree/intelligence/sms_invite/location_smsinvite_microservice.py:291
+#: ../.com.ppc.StartFree/intelligence/tasks/location_tasks_microservice.py:330
+#: ../.com.ppc.StartFree/intelligence/welcome/location_welcome_microservice.py:212
+msgid "Android"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/conversations/location_conversation_microservice.py:422
+msgid ""
+"If you would like to talk with a help center assistant about making your "
+"{} experience better, please reply 'support'."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/conversations/location_conversation_microservice.py:427
+msgid "{} user feedback on alert '{}'"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/conversations/location_conversation_microservice.py:532
+#: ../.com.ppc.StartFree/intelligence/conversations/location_conversation_microservice.py:2496
+#: ../.com.ppc.StartFree/intelligence/conversations/types/conversation_type.py:455
+msgid "SMS from {}"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/conversations/location_conversation_microservice.py:602
+msgid ""
+"Sorry about that. What do you think happened to cause the alert? How can "
+"{} do better next time?"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/conversations/location_conversation_microservice.py:629
+msgid ""
+"Thanks. For later reference, what happened to cause the alert and how was"
+" it handled?"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/conversations/location_conversation_microservice.py:664
+msgid "Cancelled."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/conversations/location_conversation_microservice.py:682
+msgid "{} requested no more SMS alerts"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/conversations/location_conversation_microservice.py:683
+msgid ""
+"{} has requested to receive no more SMS alerts by replying 'Stop' over "
+"SMS. To re-activate alerts, please update the Alert Texting role inside "
+"the {} app > Trusted Circle tab > User '{}' > Alert Texting."
+msgstr ""
+
+#. [From] 'the Moss family in ' [some home]
+#. Opening SMS message
+#: ../.com.ppc.StartFree/intelligence/conversations/location_conversation_microservice.py:693
+#: ../.com.ppc.StartFree/intelligence/conversations/location_conversation_microservice.py:1919
+#: ../.com.ppc.StartFree/intelligence/conversations/location_conversation_microservice.py:1973
+msgid "the"
+msgstr ""
+
+#. 'family' as in the 'Moss family'
+#: ../.com.ppc.StartFree/intelligence/conversations/location_conversation_microservice.py:693
+#: ../.com.ppc.StartFree/intelligence/conversations/location_conversation_microservice.py:1919
+#: ../.com.ppc.StartFree/intelligence/conversations/location_conversation_microservice.py:1973
+#: ../.com.ppc.StartFree/intelligence/conversations/location_conversation_microservice.py:2191
+#: ../.com.ppc.StartFree/intelligence/conversations/types/conversation_type.py:297
+msgid "family"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/conversations/location_conversation_microservice.py:699
+msgid ""
+"{}: 'STOP' received. You will stop receiving SMS alerts from '{}'. If "
+"this is a mistake, please ask {} to grant you Alert Texting access in the"
+" {} app again."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/conversations/location_conversation_microservice.py:708
+msgid ""
+"{}: {} has requested to receive no more SMS alerts by replying 'Stop' "
+"over SMS. If this was a mistake, please update the Alert Texting role "
+"inside the {} app > Trusted Circle tab > User '{}' > Alert Texting."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/conversations/location_conversation_microservice.py:718
+msgid "Here's how to download {}."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/conversations/location_conversation_microservice.py:740
+msgid "{}: We are here to help!"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/conversations/location_conversation_microservice.py:747
+msgid ""
+"Please visit {} to schedule a time for a help center assistant to call "
+"you."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/conversations/location_conversation_microservice.py:752
+msgid "Or email us at {}."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/conversations/location_conversation_microservice.py:754
+msgid "Please email support at {}."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/conversations/location_conversation_microservice.py:760
+msgid "Or call us at {}."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/conversations/location_conversation_microservice.py:762
+msgid "Please call a help center assistant at {}."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/conversations/location_conversation_microservice.py:766
+msgid "Check out the online help desk: {}"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/conversations/location_conversation_microservice.py:771
+msgid ""
+"{}: Customer Support has been notified to contact you during business "
+"hours. Thanks for your patience while we reach out!"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/conversations/location_conversation_microservice.py:775
+msgid ""
+"If this is a medical, fire, or security emergency, call the emergency "
+"call center at {} and say \"Site ID {}\"."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/conversations/location_conversation_microservice.py:811
+msgid "SMS: Disarm"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/conversations/location_conversation_microservice.py:812
+msgid "{} disarmed your security system via SMS: \"{}\""
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/conversations/location_conversation_microservice.py:821
+msgid "Your home is disarmed. Reply '{}' or '{}' to arm your home."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/conversations/location_conversation_microservice.py:832
+msgid "SMS: {} Mode"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/conversations/location_conversation_microservice.py:833
+msgid "{} put your location into {} Mode via SMS: \"{}\""
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/conversations/location_conversation_microservice.py:848
+msgid "{} armed your security system to 'AWAY' mode via SMS: \"{}\""
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/conversations/location_conversation_microservice.py:854
+msgid "SMS: Arm in Vacation Mode"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/conversations/location_conversation_microservice.py:855
+#: ../.com.ppc.StartFree/intelligence/conversations/location_conversation_microservice.py:878
+#: ../.com.ppc.StartFree/intelligence/conversations/location_conversation_microservice.py:901
+msgid "{} armed your security system to '{}' mode over SMS: \"{}\""
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/conversations/location_conversation_microservice.py:864
+msgid "Your home is arming in '{}' mode. Enjoy your vacation!"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/conversations/location_conversation_microservice.py:877
+#: ../.com.ppc.StartFree/intelligence/conversations/location_conversation_microservice.py:900
+msgid "SMS: Arm in {} Mode"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/conversations/location_conversation_microservice.py:887
+#: ../.com.ppc.StartFree/intelligence/conversations/location_conversation_microservice.py:910
+msgid "Your home is arming in '{}' mode."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/conversations/location_conversation_microservice.py:929
+msgid "SMS: Unlocked all smart locks"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/conversations/location_conversation_microservice.py:930
+#: ../.com.ppc.StartFree/intelligence/conversations/location_conversation_microservice.py:959
+msgid "{} unlocked all smart locks via SMS: \"{}\""
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/conversations/location_conversation_microservice.py:939
+msgid "Unlocked all smart locks. Respond 'LOCK' to lock all smart locks."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/conversations/location_conversation_microservice.py:958
+msgid "SMS: Locked all smart locks"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/conversations/location_conversation_microservice.py:968
+msgid "Locked all smart locks."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/conversations/location_conversation_microservice.py:980
+msgid "Hello."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/conversations/location_conversation_microservice.py:989
+msgid ""
+"This is {}! I'm a bot. Sort of like a guard dog, helping out with {}. "
+"We're talking because you are in their Trusted Circle."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/conversations/location_conversation_microservice.py:999
+msgid "My job is to watch over {} and make sure everything is okay."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/conversations/location_conversation_microservice.py:1016
+msgid "Thanks. This alert is now resolved."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/conversations/location_conversation_microservice.py:1354
+#: ../.com.ppc.StartFree/intelligence/conversations/location_conversation_microservice.py:1384
+#: ../.com.ppc.StartFree/intelligence/conversations/location_conversation_microservice.py:1436
+msgid ">> Reply 1 to resolve this alert."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/conversations/location_conversation_microservice.py:1363
+#: ../.com.ppc.StartFree/intelligence/conversations/location_conversation_microservice.py:1443
+msgid "Btw - if you have an emergency, call {} and say \"Site ID {}\"."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/conversations/location_conversation_microservice.py:1388
+#: ../.com.ppc.StartFree/intelligence/conversations/location_conversation_microservice.py:1494
+#: ../.com.ppc.StartFree/intelligence/conversations/location_conversation_microservice.py:1569
+msgid ""
+"The emergency call center will be contacted in 2 minutes if this isn't "
+"marked resolved."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/conversations/location_conversation_microservice.py:1421
+msgid "Contacting your family and friends..."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/conversations/location_conversation_microservice.py:1455
+msgid "Respond 'UNLOCK' to unlock all smart locks."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/conversations/location_conversation_microservice.py:1460
+#: ../.com.ppc.StartFree/intelligence/conversations/location_conversation_microservice.py:1463
+msgid ""
+"The security system is armed in '{}' mode. Respond 'DISARM' or '{}' to "
+"disarm the security system."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/conversations/location_conversation_microservice.py:1466
+msgid ""
+"The security system is armed. Respond 'DISARM' to disarm the security "
+"system."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/conversations/location_conversation_microservice.py:1490
+#: ../.com.ppc.StartFree/intelligence/conversations/location_conversation_microservice.py:1565
+msgid ""
+"\n"
+"\n"
+">> Reply 1 to resolve this alert."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/conversations/location_conversation_microservice.py:1547
+msgid "VIEW THIS HOME"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/conversations/location_conversation_microservice.py:1597
+#: ../.com.ppc.StartFree/intelligence/conversations/location_conversation_microservice.py:1653
+msgid "Notifying the Emergency Call Center."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/conversations/location_conversation_microservice.py:1602
+#: ../.com.ppc.StartFree/intelligence/conversations/location_conversation_microservice.py:1669
+msgid ""
+"You can also call the Emergency Call Center directly at {} and say \"Site"
+" ID {}\"."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/conversations/location_conversation_microservice.py:1643
+msgid ""
+"Based on the lack of activity inside the home, this situation does not "
+"appear to be resolved. Notifying the Emergency Call Center with "
+"authorization to dispatch."
+msgstr ""
+
+#. SMS message header content
+#: ../.com.ppc.StartFree/intelligence/conversations/location_conversation_microservice.py:1873
+#: ../.com.ppc.StartFree/intelligence/conversations/location_conversation_microservice.py:1927
+#: ../.com.ppc.StartFree/intelligence/conversations/location_conversation_microservice.py:1980
+#: ../.com.ppc.StartFree/intelligence/conversations/location_conversation_microservice.py:2198
+msgid ""
+"\n"
+"\n"
+"You are the only person receiving this message."
+msgstr ""
+
+#. SMS message header content
+#: ../.com.ppc.StartFree/intelligence/conversations/location_conversation_microservice.py:1877
+msgid ""
+"\n"
+"\n"
+"{} and {} have joined this group chat. Send a reply."
+msgstr ""
+
+#. SMS message header content
+#: ../.com.ppc.StartFree/intelligence/conversations/location_conversation_microservice.py:1885
+msgid ""
+"\n"
+"\n"
+"{} and {} have joined group chat. Send a reply."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/conversations/location_conversation_microservice.py:1919
+#: ../.com.ppc.StartFree/intelligence/conversations/location_conversation_microservice.py:1973
+#: ../.com.ppc.StartFree/intelligence/conversations/location_conversation_microservice.py:2191
+msgid "in"
+msgstr ""
+
+#. Opening SMS message
+#: ../.com.ppc.StartFree/intelligence/conversations/location_conversation_microservice.py:1922
+#: ../.com.ppc.StartFree/intelligence/conversations/location_conversation_microservice.py:1975
+msgid "{}: From {}'{}' at {}. {}"
+msgstr ""
+
+#. SMS message header content
+#: ../.com.ppc.StartFree/intelligence/conversations/location_conversation_microservice.py:1931
+#: ../.com.ppc.StartFree/intelligence/conversations/location_conversation_microservice.py:1939
+msgid ""
+"\n"
+"\n"
+"{} and {} are connected here in this group chat. You can text a reply to "
+"them."
+msgstr ""
+
+#. SMS message header content
+#: ../.com.ppc.StartFree/intelligence/conversations/location_conversation_microservice.py:1984
+#: ../.com.ppc.StartFree/intelligence/conversations/location_conversation_microservice.py:1992
+#: ../.com.ppc.StartFree/intelligence/conversations/location_conversation_microservice.py:2202
+#: ../.com.ppc.StartFree/intelligence/conversations/location_conversation_microservice.py:2209
+msgid ""
+"\n"
+"\n"
+"{} and {} are connected here in this group chat. Send a reply."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/conversations/location_conversation_microservice.py:2138
+#: ../.com.ppc.StartFree/intelligence/conversations/location_conversation_microservice.py:2145
+#: ../.com.ppc.StartFree/intelligence/conversations/location_conversation_microservice.py:2152
+msgid "Emergency Call Center Error"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/conversations/location_conversation_microservice.py:2139
+msgid ""
+"You have not purchased access to the emergency call center. Please "
+"contact customer support."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/conversations/location_conversation_microservice.py:2146
+msgid ""
+"You have purchased access to the emergency call center, but before it is "
+"activated, we need more information. Please contact customer support."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/conversations/location_conversation_microservice.py:2153
+msgid ""
+"You have purchased access to the emergency call center, but activation is"
+" still pending. Please contact customer support."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/conversations/location_conversation_microservice.py:2162
+msgid "Emergency Call Center Alerted"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/conversations/location_conversation_microservice.py:2163
+msgid "Contacted the emergency call center: {} (Code {})"
+msgstr ""
+
+#. Opening SMS message
+#. Opening message
+#. [From] 'the Moss family in ' [some home]
+#: ../.com.ppc.StartFree/intelligence/conversations/location_conversation_microservice.py:2191
+msgid "The"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/conversations/location_conversation_microservice.py:2193
+msgid "{}: {}'{}' {}. {}"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/conversations/location_conversation_microservice.py:2254
+msgid "Emergency Call Center Requested"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/conversations/location_conversation_microservice.py:2255
+msgid "{} requested the emergency call center."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/conversations/location_conversation_microservice.py:2354
+#: ../.com.ppc.StartFree/intelligence/conversations/location_conversation_microservice.py:2387
+msgid "This event is complete."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/conversations/location_conversation_microservice.py:2357
+#: ../.com.ppc.StartFree/intelligence/conversations/location_conversation_microservice.py:2390
+#: ../.com.ppc.StartFree/intelligence/conversations/location_conversation_microservice.py:2412
+msgid "Emergency Call Center Update"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/conversations/location_conversation_microservice.py:2378
+msgid "Dispatching"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/conversations/location_conversation_microservice.py:2413
+#: ../.com.ppc.StartFree/intelligence/conversations/location_conversation_microservice.py:2421
+msgid "Made contact with someone in the call tree."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/conversations/location_test_conversations_microservice.py:194
+msgid "Bathroom: No activity detected"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/conversations/location_test_conversations_microservice.py:196
+msgid "Check the bathroom"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/conversations/location_test_conversations_microservice.py:234
+#: ../.com.ppc.StartFree/intelligence/conversations/location_test_conversations_microservice.py:275
+msgid "Possible Fall / Inactivity"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/conversations/location_test_conversations_microservice.py:236
+#: ../.com.ppc.StartFree/intelligence/conversations/location_test_conversations_microservice.py:277
+msgid "Possible Fall"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/conversations/location_test_conversations_microservice.py:302
+#: ../.com.ppc.StartFree/intelligence/conversations/location_test_conversations_microservice.py:303
+msgid "The smoke alarm triggered."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/conversations/location_test_conversations_microservice.py:317
+#: ../.com.ppc.StartFree/intelligence/conversations/location_test_conversations_microservice.py:319
+msgid "Smoke Detected"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/conversations/location_test_conversations_microservice.py:344
+msgid "No morning activity"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/conversations/location_test_conversations_microservice.py:425
+msgid "Leak detected!"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/conversations/location_test_conversations_microservice.py:465
+msgid "Late Night"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/conversations/location_test_conversations_microservice.py:506
+msgid "Not Back Home"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/conversations/tests/test_location_conversation_microservice.py:875
+#: ../.com.ppc.StartFree/intelligence/conversations/tests/test_location_conversation_microservice.py:960
+msgid "To Homeowners - Was that previous alert correct? 1=Yes | 2=No"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/conversations/tests/test_location_conversation_microservice.py:876
+#: ../.com.ppc.StartFree/intelligence/conversations/tests/test_location_conversation_microservice.py:961
+msgid "To Everyone - Was that previous alert correct? 1=Yes | 2=No"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/conversations/types/bathroom_inactivity.py:50
+msgid "Possible fall in the bathroom?"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/conversations/types/bathroom_inactivity.py:99
+msgid "{} - Bathroom Inactivity Alert"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/conversations/types/bedtime.py:64
+msgid "Staying up late tonight?"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/conversations/types/bedtime.py:97
+#: ../.com.ppc.StartFree/intelligence/conversations/types/button_call_for_help_medical.py:100
+#: ../.com.ppc.StartFree/intelligence/conversations/types/button_help_from_anyone.py:116
+#: ../.com.ppc.StartFree/intelligence/conversations/types/vayyar_fall_detected.py:100
+#: ../.com.ppc.StartFree/intelligence/conversations/types/water_leak.py:105
+msgid "{} family"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/conversations/types/bedtime.py:99
+msgid "{} hasn't made it to bed yet."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/conversations/types/button_call_for_help_medical.py:67
+#: ../.com.ppc.StartFree/intelligence/conversations/types/button_help_from_anyone.py:83
+#: ../.com.ppc.StartFree/intelligence/conversations/types/button_help_from_occupants.py:83
+msgid "Can you help? Assist button pressed."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/conversations/types/button_call_for_help_medical.py:101
+#: ../.com.ppc.StartFree/intelligence/conversations/types/button_help_from_anyone.py:117
+msgid "Can you help? {} assist button pressed."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/conversations/types/button_call_for_help_medical.py:113
+msgid "{} - Medical Alert Button Pressed"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/conversations/types/button_call_for_help_panic.py:53
+msgid "Assist button pressed."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/conversations/types/button_call_for_help_panic.py:91
+msgid "{} - Panic Button Pressed"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/conversations/types/button_call_for_help_security.py:53
+msgid "Button: Call for help"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/conversations/types/button_help_from_anyone.py:129
+msgid "{} - Request For Help"
+msgstr ""
+
+#. 'Dispatch authorized for *the Moss family*.'
+#. 'Emergency Call Center alerted for *the Moss family*."
+#: ../.com.ppc.StartFree/intelligence/conversations/types/conversation_type.py:77
+#: ../.com.ppc.StartFree/intelligence/conversations/types/conversation_type.py:383
+#: ../.com.ppc.StartFree/intelligence/conversations/types/conversation_type.py:410
+#: ../.com.ppc.StartFree/intelligence/conversations/types/not_back_home.py:94
+msgid "the {} family"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/conversations/types/conversation_type.py:80
+#: ../.com.ppc.StartFree/intelligence/conversations/types/conversation_type.py:411
+msgid "Dispatch authorized for {}."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/conversations/types/conversation_type.py:86
+#: ../.com.ppc.StartFree/intelligence/conversations/types/conversation_type.py:384
+msgid "Emergency Call Center alerted for {}."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/conversations/types/conversation_type.py:92
+#: ../.com.ppc.StartFree/intelligence/conversations/types/conversation_type.py:261
+msgid "Need your attention."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/conversations/types/conversation_type.py:172
+#: ../.com.ppc.StartFree/signals/dashboard.py:427
+msgid "UPDATE STATUS >"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/conversations/types/conversation_type.py:175
+#: ../.com.ppc.StartFree/signals/dashboard.py:427
+msgid "Update Status"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/conversations/types/conversation_type.py:299
+msgid "{} needs your attention."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/conversations/types/conversation_type.py:325
+msgid "Did {} do a good job?"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/conversations/types/conversation_type.py:328
+msgid "What do you think caused the alert?"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/conversations/types/conversation_type.py:357
+msgid "{} alert"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/conversations/types/demo_inactivity.py:50
+#: ../.com.ppc.StartFree/intelligence/conversations/types/general_inactivity.py:50
+#: ../.com.ppc.StartFree/intelligence/conversations/types/smoke_detected.py:61
+msgid "Contact supporters?"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/conversations/types/general_inactivity.py:60
+msgid "Time to stand up and stretch."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/conversations/types/general_inactivity.py:113
+msgid "{} - Possible Fall / Unusual Inactivity"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/conversations/types/late_night.py:61
+msgid "Didn't go to bed on time."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/conversations/types/midnight_snack.py:56
+msgid "Someone is up late."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/conversations/types/morning_inactivity.py:64
+#: ../.com.ppc.StartFree/intelligence/conversations/types/morning_inactivity_no_dispatch.py:64
+#: ../.com.ppc.StartFree/intelligence/conversations/types/morning_inactivity_not_critical.py:64
+msgid "Expected someone to be awake by now."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/conversations/types/morning_inactivity.py:102
+#: ../.com.ppc.StartFree/intelligence/conversations/types/morning_inactivity_no_dispatch.py:102
+#: ../.com.ppc.StartFree/intelligence/conversations/types/morning_inactivity_not_critical.py:102
+msgid "{} - Morning Inactivity"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/conversations/types/not_back_home.py:61
+msgid "Where are you?"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/conversations/types/not_back_home.py:96
+msgid "Expected {} to be home over an hour ago."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/conversations/types/not_back_home.py:108
+msgid "{} - Not back home at an expected time"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/conversations/types/security_alarm_pro_monitoring.py:64
+#: ../.com.ppc.StartFree/intelligence/conversations/types/security_alarm_self_monitoring.py:64
+#: ../.com.ppc.StartFree/intelligence/conversations/types/security_alarm_trustedcircle_monitoring.py:64
+msgid "Security Alarm"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/conversations/types/security_reminder_to_arm.py:68
+msgid "Remember to arm your security system."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/conversations/types/stove_on_too_long.py:53
+#: ../.com.ppc.StartFree/intelligence/conversations/types/stove_too_hot.py:53
+msgid "Check the stove"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/conversations/types/stove_on_too_long.py:98
+msgid "{} - Stove on too long"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/conversations/types/stove_too_hot.py:98
+msgid "{} - Stove too hot"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/conversations/types/vayyar_fall_detected.py:67
+msgid "A fall was detected. Can you help?"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/conversations/types/vayyar_fall_detected.py:102
+msgid "{} detected a fall. Can you help?"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/conversations/types/vayyar_fall_detected.py:114
+msgid "{} - Vayyar Home detected a fall"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/conversations/types/water_leak.py:72
+msgid "Water leak detected."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/conversations/types/water_leak.py:106
+msgid "{} has a water leak."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/conversations/types/water_leak.py:121
+msgid "{} - Water Leak Detected"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/dailyreport/location_dailyreport_microservice.py:259
+msgid "Hasn't gone to sleep by midnight."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/dailyreport/location_dailyreport_microservice.py:270
+msgid "DAILY REPORT"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/dailyreport/location_dailyreport_microservice.py:272
+msgid "Daily Report for {}"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/dailyreport/location_dailyreport_microservice.py:286
+#: ../.com.ppc.StartFree/intelligence/occupancy_to_narrative/location_occupancy_narrative_microservice.py:369
+msgid "Went to sleep."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/dailyreport/location_dailyreport_microservice.py:286
+msgid "Currently sleeping."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/dailyreport/location_dailyreport_microservice.py:364
+msgid "Today's Alerts"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/dailyreport/location_dailyreport_microservice.py:374
+msgid "Today's Notes"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/dailyreport/location_dailyreport_microservice.py:384
+msgid "Today's Tasks"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/dailyreport/location_dailyreport_microservice.py:394
+msgid "Sleep"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/dailyreport/location_dailyreport_microservice.py:404
+msgid "Bathroom"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/dailyreport/location_dailyreport_microservice.py:414
+msgid "Activities"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/dailyreport/location_dailyreport_microservice.py:424
+msgid "Meals"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/dailyreport/location_dailyreport_microservice.py:434
+msgid "Medication"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/dailyreport/location_dailyreport_microservice.py:444
+msgid "Social"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/dailyreport/location_dailyreport_microservice.py:454
+msgid "Memories"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/dailyreport/location_dailyreport_microservice.py:464
+msgid "System Status"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/dailyreport/location_dailyreport_microservice.py:572
+msgid "No notes captured today."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/dailyreport/location_dailyreport_microservice.py:575
+msgid "Captured one note today."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/dailyreport/location_dailyreport_microservice.py:578
+msgid "Captured {} notes today."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/dailyreport/location_dailyreport_microservice.py:582
+msgid "No tasks updated today."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/dailyreport/location_dailyreport_microservice.py:585
+msgid "Updated one task today."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/dailyreport/location_dailyreport_microservice.py:588
+msgid "Updated {} tasks today."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/dailyreport/location_dailyreport_microservice.py:592
+msgid "No medication accessed today."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/dailyreport/location_dailyreport_microservice.py:595
+msgid "Accessed medicine once today."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/dailyreport/location_dailyreport_microservice.py:598
+msgid "Accessed medicine {} times today."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/dailyreport/location_dailyreport_microservice.py:602
+msgid "No bathroom visits observed today."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/dailyreport/location_dailyreport_microservice.py:605
+msgid "Visited the bathroom once today."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/dailyreport/location_dailyreport_microservice.py:608
+msgid "Visited the bathroom {} times today."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/dailyreport/location_dailyreport_microservice.py:652
+#: ../.com.ppc.StartFree/intelligence/dailyreport/location_dailyreport_microservice.py:659
+#: ../.com.ppc.StartFree/intelligence/free_care/activity/location_reminders_microservice.py:388
+#: ../.com.ppc.StartFree/intelligence/free_care/activity/location_reminders_microservice.py:395
+#: ../.com.ppc.StartFree/intelligence/free_rules_engine/location/location_notificationrules_microservice.py:40
+#: ../.com.ppc.StartFree/intelligence/free_rules_engine/location_rulesengine_microservice.py:614
+#: ../.com.ppc.StartFree/intelligence/free_rules_engine/location_rulesengine_microservice.py:699
+msgid "and"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/dashboard/location_dashboardheader_microservice.py:247
+msgid "Listening for activity"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/dashboard/location_dashboardheader_microservice.py:463
+msgid "Hello"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/dashboard/location_dashboardheader_microservice.py:466
+msgid "Hope you're having a good day."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/dashboard/location_dashboardheader_microservice.py:554
+msgid "Dashboard: {}"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/data_request/location_datarequest_microservice.py:191
+msgid "Learning"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/data_request/location_datarequest_microservice.py:192
+msgid "{} is reviewing everything it observed recently and is learning from it."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/daylight/location_daylight_microservice.py:131
+#: ../.com.ppc.StartFree/intelligence/daylight/location_daylight_microservice.py:142
+msgid "Sunrise"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/daylight/location_daylight_microservice.py:132
+msgid "It is sunrise at '{}'."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/daylight/location_daylight_microservice.py:143
+msgid "It is sunrise here."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/daylight/location_daylight_microservice.py:159
+#: ../.com.ppc.StartFree/intelligence/daylight/location_daylight_microservice.py:170
+msgid "Sunset"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/daylight/location_daylight_microservice.py:160
+msgid "It is sunset at '{}'."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/daylight/location_daylight_microservice.py:171
+msgid "It is sunset here."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/ecc/location_ecc_microservice.py:304
+#: ../.com.ppc.StartFree/intelligence/ecc/location_ecc_microservice.py:342
+#: ../.com.ppc.StartFree/intelligence/ecc/location_ecc_microservice.py:367
+#: ../.com.ppc.StartFree/intelligence/ecc/location_ecc_microservice.py:374
+#: ../.com.ppc.StartFree/intelligence/ecc/location_ecc_microservice.py:398
+msgid "Emergency Call Center"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/ecc/location_ecc_microservice.py:305
+msgid "Activate the Emergency Call Center"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/ecc/location_ecc_microservice.py:316
+msgid ""
+"Control whether the Emergency Call Center should get involved when nobody"
+" else is responding to a critical alert."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/ecc/location_ecc_microservice.py:331
+msgid ""
+"The Emergency Call Center will first try calling the people on the call "
+"tree, and may dispatch emergency services to the home. You can set up the"
+" Emergency Call Center call tree in the Trusted Circle tab.\n"
+"\n"
+"If you are using the security system features, it is your responsibility "
+"register your security system with any local municipalities."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/ecc/location_ecc_microservice.py:332
+msgid "The Emergency Call Center will call and dispatch."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/ecc/location_ecc_microservice.py:333
+msgid "ACTIVE - PHONE CALLS AND DISPATCH"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/ecc/location_ecc_microservice.py:336
+msgid ""
+"The Emergency Call Center will only try calling people on the call tree, "
+"and WILL NOT dispatch emergency services. You can set up the Emergency "
+"Call Center call tree in the Trusted Circle tab."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/ecc/location_ecc_microservice.py:337
+msgid "The Emergency Call Center will make phone calls."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/ecc/location_ecc_microservice.py:338
+msgid "ACTIVE - PHONE CALLS ONLY"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/ecc/location_ecc_microservice.py:368
+#: ../.com.ppc.StartFree/intelligence/ecc/location_ecc_microservice.py:399
+msgid "Allow Emergency Dispatch"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/ecc/location_ecc_microservice.py:375
+msgid "Allow the Emergency Call Center to help resolve problems."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_care/activity/location_bathroomquestion_microservice.py:103
+#: ../.com.ppc.StartFree/intelligence/free_care/activity/location_midnightsnack_microservice.py:138
+#: ../.com.ppc.StartFree/intelligence/free_care/activity/location_wandering_microservice.py:202
+#: ../.com.ppc.StartFree/intelligence/free_care/inactivity/location_general_inactivity_microservice.py:172
+#: ../.com.ppc.StartFree/intelligence/free_care/inactivity/location_notbackhome_microservice.py:234
+#: ../.com.ppc.StartFree/signals/services.py:12
+msgid "Care Settings"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_care/activity/location_bathroomquestion_microservice.py:111
+msgid "Bathroom: Track bathroom activity. Subscription required."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_care/activity/location_bathroomquestion_microservice.py:123
+msgid "Bathroom Monitoring"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_care/activity/location_bathroomquestion_microservice.py:124
+msgid "Tracks bathroom visits and activity."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_care/activity/location_bathroomquestion_microservice.py:128
+#: ../.com.ppc.StartFree/intelligence/free_care/activity/location_midnightsnack_microservice.py:162
+#: ../.com.ppc.StartFree/intelligence/free_care/activity/location_wandering_microservice.py:225
+#: ../.com.ppc.StartFree/intelligence/free_care/inactivity/location_general_inactivity_microservice.py:197
+#: ../.com.ppc.StartFree/intelligence/free_care/inactivity/location_notbackhome_microservice.py:260
+msgid "SUBSCRIPTION REQUIRED"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_care/activity/location_bathroomquestion_microservice.py:131
+#: ../.com.ppc.StartFree/intelligence/free_care/activity/location_midnightsnack_microservice.py:164
+#: ../.com.ppc.StartFree/intelligence/free_care/activity/location_reminders_microservice.py:325
+#: ../.com.ppc.StartFree/intelligence/free_care/activity/location_reminders_microservice.py:328
+#: ../.com.ppc.StartFree/intelligence/free_care/activity/location_wandering_microservice.py:228
+#: ../.com.ppc.StartFree/intelligence/free_care/inactivity/location_general_inactivity_microservice.py:200
+#: ../.com.ppc.StartFree/intelligence/free_care/inactivity/location_notbackhome_microservice.py:263
+msgid "SUBSCRIPTION REQUIRED."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_care/activity/location_bathroomquestion_microservice.py:131
+msgid ""
+"This service will monitor and report bathroom visits in the History, day "
+"and night. It requires a motion sensor inside the bathroom to operate, "
+"which you can find on the {} online store. A bathroom motion sensor will "
+"also add more aggressive fall and inactivity detection inside the "
+"bathroom, making the bathroom a safer place to be.\n"
+"\n"
+"Motion sensors are not cameras, and maintain privacy while simply "
+"identifying whether a person is in the room."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_care/activity/location_midnightsnack_microservice.py:145
+msgid ""
+"Late Night: Notify when there is movement after bedtime. Subscription "
+"required."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_care/activity/location_midnightsnack_microservice.py:157
+msgid "Late Night Activity"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_care/activity/location_midnightsnack_microservice.py:158
+msgid "Alerts when movement is detected after bedtime."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_care/activity/location_midnightsnack_microservice.py:164
+msgid ""
+"This service will send alerts to people who live in the home when "
+"activity is detected after occupants were expected to be asleep. This is "
+"useful for families with children, and for caregivers of people with "
+"dementia or Alzheimer's. This service requires motion sensors placed "
+"throughout the home to activate. Additional motion sensors can be "
+"purchased from the {} online store."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_care/activity/location_reminders_microservice.py:219
+#: ../.com.ppc.StartFree/intelligence/free_care/activity/location_reminders_microservice.py:247
+#: ../.com.ppc.StartFree/intelligence/free_care/activity/location_reminders_microservice.py:275
+#: ../.com.ppc.StartFree/intelligence/free_care/activity/location_reminders_microservice.py:321
+#: ../.com.ppc.StartFree/intelligence/free_care/activity/location_reminders_microservice.py:335
+msgid "Social Connector"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_care/activity/location_reminders_microservice.py:220
+msgid "Remind family and friends to reach out. Subscription required."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_care/activity/location_reminders_microservice.py:248
+msgid "Recommend calling."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_care/activity/location_reminders_microservice.py:276
+msgid "Recommend sending pictures."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_care/activity/location_reminders_microservice.py:322
+msgid "What is the nickname of the person or family who lives here?"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_care/activity/location_reminders_microservice.py:325
+msgid ""
+"THIS IS GOOD FOR YOUR HEALTH.\n"
+"Decades of research indicate that having quality social connections with "
+"other people is critical for good physical and mental health. In fact, "
+"the health benefit of having quality social connections is comparible to "
+"what you would obtain by stopping smoking or maintaining a healthy body "
+"weight. Studies have found that social support is linked to recovering "
+"faster from injuries and more effective immune system functioning.\n"
+"\n"
+"IT'S GOOD FOR FAMILY AND FRIENDS.\n"
+"Recent research indicates when people provide support and help for "
+"others, it improves their own well being. Importantly, the health "
+"benefits of giving to others seems to increase with age.\n"
+"\n"
+"THE BIG PICTURE.\n"
+"This service helps maintain social connections between people and the "
+"friends and family in their Trusted Circle, all of whom may experience "
+"health benefits from being socially connected and giving to others.\n"
+"\n"
+"HOW DO I SET UP THE TRUSTED CIRCLE?\n"
+"First, add people in the {} app's Trusted Circle tab. Make sure at least "
+"one person's Alert Texting role is set to 'I Live Here'. Set other "
+"people's Alert Texting roles to either 'Family / Friend' or 'Social "
+"Reminders Only'. {} will then intelligently coordinate family and friends"
+" in the Trusted Circle to reach out to the people who live here.\n"
+"\n"
+"HOW DOES IT WORK?\n"
+"Each participant will get randomly selected no more than once per week in"
+" a way that does not become a burden. On that person's day to reach out, "
+"they will receive a text message reminder in the morning. Finally, {} "
+"will help recommend conversation topics to the next person in the Trusted"
+" Circle, and report on the Dashboard who reached out most recently."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_care/activity/location_reminders_microservice.py:329
+msgid "Fights isolation and loneliness."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_care/activity/location_wandering_microservice.py:209
+msgid "Wandering Away: Alert when perimeter doors open. Subscription required."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_care/activity/location_wandering_microservice.py:220
+msgid "Wandering Away"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_care/activity/location_wandering_microservice.py:221
+msgid "Alerts when perimeter doors open."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_care/activity/location_wandering_microservice.py:228
+msgid ""
+"This service will send alerts to people who live inside the home when "
+"perimeter doors open. It is useful for families with children, or for "
+"caregivers of people with dementia or Alzheimer's. This service requires "
+"entry sensors on perimeter doors to activate, available on the {} online "
+"store."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_care/inactivity/location_general_inactivity_microservice.py:179
+msgid ""
+"Falls & Inactivity: Automatically alert on potential falls or unusual "
+"inactivity. Subscription required."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_care/inactivity/location_general_inactivity_microservice.py:188
+msgid "Alerts on potential falls or unusual inactivity."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_care/inactivity/location_general_inactivity_microservice.py:192
+msgid "Fall & Inactivity Detection"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_care/inactivity/location_general_inactivity_microservice.py:200
+msgid ""
+"This service will look for signs of abnormal inactivity in the home. "
+"Abnormal inactivity can occur if a person falls down and cannot get back "
+"up. To activate this service, you'll need motion sensors throughout the "
+"home, entry sensors on the perimeter exit doors, and a subscription. You "
+"can purchase additional sensors on the {} online store."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_care/inactivity/location_notbackhome_microservice.py:241
+msgid ""
+"Not Back Home: Get alerted if occupants don't come back home at a usual "
+"time. Subscription required."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_care/inactivity/location_notbackhome_microservice.py:250
+msgid "Alerts if people don't come home at a usual time."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_care/inactivity/location_notbackhome_microservice.py:255
+msgid "Not Back Home Monitoring"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_care/inactivity/location_notbackhome_microservice.py:263
+msgid ""
+"This service predicts what time occupants will be back home and will "
+"deliver alerts if nobody came home at an expected time. To activate this "
+"service, you'll need motion sensors throughout the home, entry sensors on"
+" the perimeter exit doors, and a subscription. You can purchase "
+"additional sensors on the {} online store."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_care/pers/location_sos_microservice.py:285
+msgid "Emergency SOS Received"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_care/pers/location_sos_microservice.py:320
+msgid "Emergency SOS Update"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_care/pers/location_sos_microservice.py:373
+#: ../.com.ppc.StartFree/intelligence/free_care/pers/location_sos_microservice.py:388
+#: ../.com.ppc.StartFree/intelligence/free_care/pers/location_sos_microservice.py:403
+#: ../.com.ppc.StartFree/intelligence/free_care/pers/location_sos_microservice.py:418
+msgid "Help needed!"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_care/pers/location_sos_microservice.py:389
+msgid "{} has alerted people who live here."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_care/pers/location_sos_microservice.py:404
+msgid "{} has alerted family and friends."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_care/pers/location_sos_microservice.py:419
+msgid "{} has alerted the Emergency Call Center."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules/device_battery_intelligence.py:81
+msgid "New Battery"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules/device_battery_intelligence.py:82
+msgid "Your '{}' has a new battery."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules/device_battery_intelligence.py:112
+msgid "Low Battery"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules/device_battery_intelligence.py:113
+msgid "Your '{}' has a low battery."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules/device_battery_intelligence.py:120
+msgid "The '{}' has a low battery that needs to be replaced."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules/device_battery_intelligence.py:121
+msgid "Battery low since {}."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules/device_battery_intelligence.py:124
+#: ../.com.ppc.StartFree/intelligence/free_rules/device_battery_intelligence.py:125
+msgid "The type of battery it requires is {}."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules/device_battery_intelligence.py:130
+msgid "'{}' needs a new battery."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules/device_buttonmulti_microservice.py:99
+#: ../.com.ppc.StartFree/intelligence/free_rules/device_buttonmulti_microservice.py:137
+#: ../.com.ppc.StartFree/intelligence/free_rules/device_buttonpanic_microservice.py:171
+#: ../.com.ppc.StartFree/intelligence/free_rules/device_buttonpanic_microservice.py:238
+msgid "Can you please help me? I pushed my button to request assistance."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules/device_buttonmulti_microservice.py:125
+#: ../.com.ppc.StartFree/intelligence/free_rules/device_buttonmulti_microservice.py:163
+#: ../.com.ppc.StartFree/intelligence/free_rules/device_buttonpanic_microservice.py:197
+#: ../.com.ppc.StartFree/intelligence/free_rules/device_buttonpanic_microservice.py:264
+msgid "Help: '{}' was pressed."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules/device_buttonmulti_microservice.py:126
+#: ../.com.ppc.StartFree/intelligence/free_rules/device_buttonpanic_microservice.py:198
+msgid ""
+"The '{}' was pressed to call for help from occupants. You can change the "
+"behavior by tapping into '{}' > Behaviors."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules/device_buttonmulti_microservice.py:164
+#: ../.com.ppc.StartFree/intelligence/free_rules/device_buttonpanic_microservice.py:265
+msgid ""
+"The '{}' was pressed to call for help from anyone. You can change the "
+"behavior by tapping into '{}' > Behaviors."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules/device_buttonmulti_microservice.py:223
+msgid "Button pressed: Medicine recorded!"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules/device_buttonmulti_microservice.py:226
+msgid "Medication: '{}' was pressed."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules/device_buttonmulti_microservice.py:227
+msgid "The '{}' was pressed to record medicine was taken."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules/device_buttonmulti_microservice.py:239
+msgid "'{}': Medication button last pressed {} on {}."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules/device_buttonmulti_microservice.py:252
+msgid "Once today"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules/device_buttonmulti_microservice.py:252
+msgid "{} times today"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules/device_buttonmulti_microservice.py:253
+msgid "'{}' Medicine Tracking"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules/device_buttonmulti_microservice.py:254
+msgid "Tracking when '{}' is pressed."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules/device_buttonmulti_microservice.py:262
+msgid "'{}' medication button pressed."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules/device_buttonmulti_microservice.py:284
+#: ../.com.ppc.StartFree/intelligence/free_rules/device_buttonmulti_microservice.py:294
+msgid "Button: Doorbell"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules/device_buttonmulti_microservice.py:285
+msgid ""
+"Your '{}' was pressed. Its behavior is set to 'Doorbell', which caused "
+"your sirens to ring the doorbell."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules/device_buttonmulti_microservice.py:295
+msgid ""
+"Your '{}' was pressed. Its behavior is set to 'Doorbell', but you have no"
+" connected sirens to sound the doorbell. Please connect a siren to your "
+"account."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules/device_buttonmulti_microservice.py:310
+#: ../.com.ppc.StartFree/intelligence/free_rules/device_buttonpanic_microservice.py:329
+msgid "Button: Emergency Medical Alert"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules/device_buttonmulti_microservice.py:311
+#: ../.com.ppc.StartFree/intelligence/free_rules/device_buttonpanic_microservice.py:330
+msgid ""
+"The '{}' was pressed. Its behavior is set to Emergency Medical Alert. "
+"This will send an alert out of your home to any family and friends, "
+"followed by any emergency call center services in your account."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules/device_buttonmulti_microservice.py:322
+msgid "Pressed the medical call for help button named '{}' on {} at {}."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules/device_buttonmulti_microservice.py:353
+msgid "Button Held: Arm in AWAY mode"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules/device_buttonmulti_microservice.py:354
+msgid "Your '{}' was pressed and held. Your home is now arming in 'AWAY' mode."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules/device_buttonmulti_microservice.py:380
+msgid "Button Held: Arm in STAY mode"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules/device_buttonmulti_microservice.py:381
+msgid "Your '{}' was pressed and held. Your home is now arming in 'STAY' mode."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules/device_buttonmulti_microservice.py:409
+msgid "Button Pressed: Disarm"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules/device_buttonmulti_microservice.py:410
+msgid "Your '{}' was pressed. Your home is now disarmed."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules/device_buttonmulti_microservice.py:471
+#: ../.com.ppc.StartFree/intelligence/free_rules/device_buttonpanic_microservice.py:395
+msgid "Assist button pressed"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules/device_buttonmulti_microservice.py:472
+#: ../.com.ppc.StartFree/intelligence/free_rules/device_buttonpanic_microservice.py:396
+msgid "This button is named '{}'"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules/device_buttonmulti_microservice.py:478
+#: ../.com.ppc.StartFree/intelligence/free_rules/device_buttonpanic_microservice.py:402
+msgid "Assist button pressed at {}."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules/device_buttonmulti_microservice.py:497
+#: ../.com.ppc.StartFree/intelligence/free_rules/device_buttonmulti_microservice.py:512
+#: ../.com.ppc.StartFree/intelligence/free_rules/device_buttonmulti_microservice.py:527
+#: ../.com.ppc.StartFree/intelligence/free_rules/device_buttonmulti_microservice.py:542
+#: ../.com.ppc.StartFree/intelligence/free_rules/device_buttonmulti_microservice.py:557
+#: ../.com.ppc.StartFree/intelligence/free_rules/device_buttonmulti_microservice.py:573
+#: ../.com.ppc.StartFree/intelligence/free_rules/device_buttonpanic_microservice.py:421
+#: ../.com.ppc.StartFree/intelligence/free_rules/device_buttonpanic_microservice.py:436
+#: ../.com.ppc.StartFree/intelligence/free_rules/device_buttonpanic_microservice.py:451
+#: ../.com.ppc.StartFree/intelligence/free_rules/device_buttonpanic_microservice.py:466
+#: ../.com.ppc.StartFree/intelligence/free_rules/device_buttonpanic_microservice.py:481
+#: ../.com.ppc.StartFree/intelligence/free_rules/device_buttonpanic_microservice.py:497
+msgid "Assist Button Pressed"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules/device_buttonmulti_microservice.py:498
+#: ../.com.ppc.StartFree/intelligence/free_rules/device_buttonpanic_microservice.py:422
+msgid "Please respond."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules/device_buttonmulti_microservice.py:513
+#: ../.com.ppc.StartFree/intelligence/free_rules/device_buttonpanic_microservice.py:437
+msgid ""
+"{} has alerted people who live here.\n"
+"Please respond."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules/device_buttonmulti_microservice.py:528
+#: ../.com.ppc.StartFree/intelligence/free_rules/device_buttonpanic_microservice.py:452
+msgid ""
+"{} has alerted family and friends.\n"
+"Please respond."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules/device_buttonmulti_microservice.py:543
+#: ../.com.ppc.StartFree/intelligence/free_rules/device_buttonpanic_microservice.py:467
+msgid ""
+"{} has alerted the Emergency Call Center.\n"
+"Please respond."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules/device_buttonmulti_microservice.py:558
+#: ../.com.ppc.StartFree/intelligence/free_rules/device_buttonmulti_microservice.py:574
+#: ../.com.ppc.StartFree/intelligence/free_rules/device_buttonpanic_microservice.py:482
+#: ../.com.ppc.StartFree/intelligence/free_rules/device_buttonpanic_microservice.py:498
+msgid ""
+"The Emergency Call Center will dispatch.\n"
+"Please respond."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules/device_buttonmulti_microservice.py:574
+#: ../.com.ppc.StartFree/intelligence/free_rules/device_buttonpanic_microservice.py:498
+msgid "Response from the Emergency Call Center: {}"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules/device_buttonpanic_microservice.py:93
+msgid "Button pressed! Your new button is signaling for help."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules/device_buttonpanic_microservice.py:110
+msgid "Nice! Your new button stopped signaling for help."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules/device_buttonpanic_microservice.py:215
+#: ../.com.ppc.StartFree/intelligence/free_rules/device_buttonpanic_microservice.py:281
+#: ../.com.ppc.StartFree/intelligence/free_rules/device_buttonpanic_microservice.py:348
+msgid "Button '{}' stopped alerting."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules/device_buttonpanic_microservice.py:216
+#: ../.com.ppc.StartFree/intelligence/free_rules/device_buttonpanic_microservice.py:282
+#: ../.com.ppc.StartFree/intelligence/free_rules/device_buttonpanic_microservice.py:349
+msgid "The '{}' has reset and stopped the alert."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules/device_buttonpanic_microservice.py:228
+#: ../.com.ppc.StartFree/intelligence/free_rules/device_buttonpanic_microservice.py:294
+#: ../.com.ppc.StartFree/intelligence/free_rules/device_buttonpanic_microservice.py:360
+msgid "The button '{}' has reset and stopped alerting."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules/device_buttonpanic_microservice.py:305
+msgid "Pressed the medical call for help button named '{}'."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules/device_gateway_microservice.py:92
+#: ../.com.ppc.StartFree/intelligence/free_rules/device_gateway_microservice.py:96
+msgid "The '{}' reconnected."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules/device_gateway_microservice.py:95
+msgid "Smart Home Center is online."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules/device_gateway_microservice.py:160
+msgid "Power outage! The '{}' switched to battery power."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules/device_gateway_microservice.py:163
+#: ../.com.ppc.StartFree/intelligence/free_rules/device_gateway_microservice.py:197
+#: ../.com.ppc.StartFree/intelligence/free_rules/device_gateway_microservice.py:222
+msgid "Power Outage"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules/device_gateway_microservice.py:164
+msgid "The '{}' switched to battery power."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules/device_gateway_microservice.py:172
+msgid "Power restored! The '{}' switched to wall power."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules/device_gateway_microservice.py:183
+msgid "Power Restored"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules/device_gateway_microservice.py:184
+msgid "The '{}' switched to wall power."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules/device_gateway_microservice.py:198
+msgid "The '{}' is on battery power."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules/device_gateway_microservice.py:209
+msgid "'{}' is on battery power."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules/device_gateway_microservice.py:223
+msgid "The '{}' is critically low on battery."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules/device_gateway_microservice.py:234
+msgid "'{}' is critically low on battery power."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules/device_gateway_microservice.py:247
+msgid "Broadband internet outage! The '{}' switched to cellular."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules/device_gateway_microservice.py:254
+msgid "Broadband Internet Outage"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules/device_gateway_microservice.py:255
+msgid "The '{}' is cellular connected."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules/device_gateway_microservice.py:266
+msgid "'{}' is cellular connected."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules/device_gateway_microservice.py:276
+msgid "Broadband internet connected! The '{}' is no longer using cellular."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules/device_gateway_microservice.py:317
+msgid "Offline"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules/device_gateway_microservice.py:318
+#: ../.com.ppc.StartFree/intelligence/free_rules/device_gateway_microservice.py:346
+msgid "The '{}' is disconnected."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules/device_gateway_microservice.py:335
+msgid "'{}' is disconnected."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules/device_gateway_microservice.py:342
+msgid "'{}' disconnected!"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules/device_gateway_microservice.py:345
+msgid "Smart Home Center offline."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules/device_motion_rules_intelligence.py:125
+msgid "Your '{}' detected motion while {} is set to {} mode."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules/device_offline_microservice.py:108
+msgid "The '{}' may have disconnected from {} on {} at {}."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules/device_offline_microservice.py:111
+#: ../.com.ppc.StartFree/intelligence/free_rules/device_offline_microservice.py:152
+#: ../.com.ppc.StartFree/intelligence/free_rules/device_offline_microservice.py:260
+msgid ""
+"It has low wireless signal strength and a low battery. Please replace the"
+" battery, and try moving the Smart Home Center closer to this device and "
+"higher off the ground to encourage better wireless performance."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules/device_offline_microservice.py:114
+#: ../.com.ppc.StartFree/intelligence/free_rules/device_offline_microservice.py:155
+#: ../.com.ppc.StartFree/intelligence/free_rules/device_offline_microservice.py:265
+msgid ""
+"It has low wireless signal strength. Try moving the Smart Home Center "
+"closer to this device and higher off the ground to encourage better "
+"wireless performance."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules/device_offline_microservice.py:117
+#: ../.com.ppc.StartFree/intelligence/free_rules/device_offline_microservice.py:158
+#: ../.com.ppc.StartFree/intelligence/free_rules/device_offline_microservice.py:270
+#: ../.com.ppc.StartFree/intelligence/free_rules/device_offline_microservice.py:271
+msgid "It has a low battery."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules/device_offline_microservice.py:120
+#: ../.com.ppc.StartFree/intelligence/free_rules/device_offline_microservice.py:161
+#: ../.com.ppc.StartFree/intelligence/free_rules/device_offline_microservice.py:275
+msgid "Please replace the {} battery inside."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules/device_offline_microservice.py:122
+#: ../.com.ppc.StartFree/intelligence/free_rules/device_offline_microservice.py:163
+#: ../.com.ppc.StartFree/intelligence/free_rules/device_offline_microservice.py:277
+msgid "Please replace the battery."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules/device_offline_microservice.py:125
+msgid ""
+"If you need to re-pair the device with your Smart Home Center, please tap"
+" into the {} app > Devices tab > [+] in the top right corner > Add a {}. "
+"The 'I need help' button will show you how to re-pair the device. If the "
+"device does not come back online soon, {} will send you an alert."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules/device_offline_microservice.py:128
+msgid "'{}' may have disconnected"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules/device_offline_microservice.py:143
+msgid "'{}' is connected."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules/device_offline_microservice.py:149
+msgid "The '{}' reconnected with {}."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules/device_offline_microservice.py:168
+msgid "'{}' Connected"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules/device_offline_microservice.py:255
+msgid "'{}' disconnected from {} on {} at {}."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules/device_offline_microservice.py:256
+msgid "'{}' disconnected."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules/device_offline_microservice.py:257
+msgid "'{}' offline."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules/device_offline_microservice.py:261
+msgid "It has low wireless signal strength and a low battery."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules/device_offline_microservice.py:262
+msgid "Low battery and signal."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules/device_offline_microservice.py:266
+msgid "It has low wireless signal strength."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules/device_offline_microservice.py:267
+msgid "Low signal strength."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules/device_offline_microservice.py:272
+msgid "Replace battery."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules/device_offline_microservice.py:280
+msgid ""
+"If you need to re-pair the device with your Smart Home Center, please tap"
+" into the {} app > Devices tab > [+] in the top right corner > Add a {}. "
+"The 'I need help' button will show you how to re-pair the device."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules/device_offline_microservice.py:283
+msgid "'{}' Offline"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules_engine/location_rulesengine_microservice.py:528
+msgid "or"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules_engine/location/location_notificationrules_microservice.py:36
+#: ../.com.ppc.StartFree/intelligence/free_rules_engine/location_rulesengine_microservice.py:540
+msgid "while"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules_engine/location_rulesengine_microservice.py:626
+msgid "then"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules_engine/devices/button/location_buttonmultirules_microservice.py:26
+msgid "Your '{}' was pressed"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules_engine/devices/button/location_buttonmultirules_microservice.py:36
+msgid "Your '{}' was released"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules_engine/devices/button/location_buttonmultirules_microservice.py:70
+msgid "The '{}' was held for more than 3 seconds"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules_engine/devices/button/location_buttonmultirules_microservice.py:138
+#: ../.com.ppc.StartFree/intelligence/free_rules_engine/devices/button/location_buttonmultirules_microservice.py:206
+#: ../.com.ppc.StartFree/intelligence/free_rules_engine/devices/button/location_buttonmultirules_microservice.py:273
+msgid "Buttons"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules_engine/devices/button/location_buttonmultirules_microservice.py:144
+msgid "When my '{}' is pressed"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules_engine/devices/button/location_buttonmultirules_microservice.py:212
+msgid "When my '{}' is released"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules_engine/devices/button/location_buttonmultirules_microservice.py:279
+msgid "When my '{}' is held for more than 3 seconds"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules_engine/devices/button/location_buttonmultirules_microservice.py:339
+#: ../.com.ppc.StartFree/intelligence/free_rules_engine/devices/button/location_buttonpanicrules_microservice.py:68
+msgid "Emergency Medical Alert (default)"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules_engine/devices/button/location_buttonmultirules_microservice.py:342
+msgid ""
+"Press the button more than 3 seconds to call for medical emergency help. "
+"An SMS text message will be sent to family and friends associated with "
+"your home before contacting the emergency call center with a medical "
+"alarm."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules_engine/devices/button/location_buttonmultirules_microservice.py:349
+#: ../.com.ppc.StartFree/intelligence/free_rules_engine/devices/button/location_buttonpanicrules_microservice.py:78
+msgid "Medical Emergency Button"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules_engine/devices/button/location_buttonmultirules_microservice.py:369
+#: ../.com.ppc.StartFree/intelligence/free_rules_engine/devices/button/location_buttonpanicrules_microservice.py:98
+msgid "Signal: I need help from people who live with me"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules_engine/devices/button/location_buttonmultirules_microservice.py:372
+msgid ""
+"Press the button more than 3 seconds to send a text message that requests"
+" assistance from people in the Trusted Circle who have the alert texting "
+"role 'I Live Here'. This behavior will not signal the Emergency Call "
+"Center."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules_engine/devices/button/location_buttonmultirules_microservice.py:379
+#: ../.com.ppc.StartFree/intelligence/free_rules_engine/devices/button/location_buttonmultirules_microservice.py:409
+#: ../.com.ppc.StartFree/intelligence/free_rules_engine/devices/button/location_buttonpanicrules_microservice.py:108
+#: ../.com.ppc.StartFree/intelligence/free_rules_engine/devices/button/location_buttonpanicrules_microservice.py:138
+msgid "I Need Help Button"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules_engine/devices/button/location_buttonmultirules_microservice.py:399
+#: ../.com.ppc.StartFree/intelligence/free_rules_engine/devices/button/location_buttonpanicrules_microservice.py:128
+msgid "Signal: I need help from anyone"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules_engine/devices/button/location_buttonmultirules_microservice.py:402
+msgid ""
+"Press the button more than 3 seconds to send a text message that requests"
+" assistance from people in the Trusted Circle who have the alert texting "
+"roles 'I Live Here' or 'Family/Friend'. This behavior will not signal the"
+" Emergency Call Center."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules_engine/devices/button/location_buttonmultirules_microservice.py:429
+msgid "Signal: I took my medicine"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules_engine/devices/button/location_buttonmultirules_microservice.py:432
+msgid "Press the button more than 3 seconds to record you took your medicine."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules_engine/devices/button/location_buttonmultirules_microservice.py:439
+msgid "Took My Medicine Button"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules_engine/devices/button/location_buttonmultirules_microservice.py:459
+msgid "Security Arm/Disarm in Away Mode"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules_engine/devices/button/location_buttonmultirules_microservice.py:462
+msgid ""
+"Place your button in a secret location that only you and trusted people "
+"know about, like hidden under a shelf or in a kitchen drawer. If your "
+"security system is currently disarmed, press and hold the button for "
+"about 5 seconds to toggle into AWAY mode. If the security system is "
+"armed, tap and release the button to disarm back into {} mode. Any "
+"connected siren will audibly remind you whether the security system has "
+"been armed or disarmed."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules_engine/devices/button/location_buttonmultirules_microservice.py:469
+#: ../.com.ppc.StartFree/intelligence/free_rules_engine/devices/button/location_buttonmultirules_microservice.py:499
+msgid "Secret Arm/Disarm Button"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules_engine/devices/button/location_buttonmultirules_microservice.py:489
+msgid "Security Arm/Disarm in Stay Mode"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules_engine/devices/button/location_buttonmultirules_microservice.py:492
+msgid ""
+"Place your button in a secret location that only you and trusted people "
+"know about, like hidden under a shelf or in a kitchen drawer. If your "
+"security system is currently disarmed, press and hold the button about 5 "
+"seconds to toggle into STAY mode. If the security system is armed, tap "
+"and release the button to disarm back into {} mode. Any connected siren "
+"will audibly remind you whether the security system has been armed or "
+"disarmed."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules_engine/devices/button/location_buttonmultirules_microservice.py:546
+msgid "Doorbell"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules_engine/devices/button/location_buttonmultirules_microservice.py:549
+msgid "Use the button as a doorbell. Requires a siren in your account."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules_engine/devices/button/location_buttonmultirules_microservice.py:556
+msgid "Doorbell Button"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules_engine/devices/button/location_buttonpanicrules_microservice.py:71
+msgid ""
+"Press the button once to call for medical emergency help. An SMS text "
+"message will be sent to family and friends associated with your home "
+"before contacting the emergency call center with a medical alarm."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules_engine/devices/button/location_buttonpanicrules_microservice.py:101
+msgid ""
+"Press the button to send a text message that requests assistance from "
+"people in the Trusted Circle who have the alert texting role 'I Live "
+"Here'. This behavior will not signal the Emergency Call Center."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules_engine/devices/button/location_buttonpanicrules_microservice.py:131
+msgid ""
+"Press the button to send a text message that requests assistance from "
+"people in the Trusted Circle who have the alert texting roles 'I Live "
+"Here' or 'Family/Friend'. This behavior will not signal the Emergency "
+"Call Center."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules_engine/devices/entry/location_entryrules_microservice.py:25
+msgid "Your '{}' opened"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules_engine/devices/entry/location_entryrules_microservice.py:35
+msgid "Your '{}' closed"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules_engine/devices/entry/location_entryrules_microservice.py:74
+msgid "The '{}' was open for more than {}:{} minutes"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules_engine/devices/entry/location_entryrules_microservice.py:83
+#: ../.com.ppc.StartFree/intelligence/free_rules_engine/devices/entry/location_entryrules_microservice.py:389
+msgid "'{}' is open"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules_engine/devices/entry/location_entryrules_microservice.py:94
+#: ../.com.ppc.StartFree/intelligence/free_rules_engine/devices/entry/location_entryrules_microservice.py:448
+msgid "'{}' is closed"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules_engine/devices/entry/location_entryrules_microservice.py:161
+#: ../.com.ppc.StartFree/intelligence/free_rules_engine/devices/entry/location_entryrules_microservice.py:228
+#: ../.com.ppc.StartFree/intelligence/free_rules_engine/devices/entry/location_entryrules_microservice.py:294
+#: ../.com.ppc.StartFree/intelligence/free_rules_engine/devices/entry/location_entryrules_microservice.py:383
+#: ../.com.ppc.StartFree/intelligence/free_rules_engine/devices/entry/location_entryrules_microservice.py:442
+msgid "Entry Sensors"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules_engine/devices/entry/location_entryrules_microservice.py:167
+msgid "When my '{}' opens"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules_engine/devices/entry/location_entryrules_microservice.py:234
+msgid "When my '{}' closes"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules_engine/devices/entry/location_entryrules_microservice.py:300
+msgid "When my '{}' is open for more than {} minutes"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules_engine/devices/entry/location_entryrules_microservice.py:368
+msgid "How long for the entry sensor to be open?"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules_engine/devices/entry/location_entryrules_microservice.py:494
+msgid ""
+"Install this entry sensor on the perimeter of the home to protect the "
+"home and help save energy."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules_engine/devices/entry/location_entryrules_microservice.py:496
+msgid "A security alarm can trigger when the door opens."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules_engine/devices/entry/location_entryrules_microservice.py:507
+msgid "Install on a Perimeter Door (default)"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules_engine/devices/entry/location_entryrules_microservice.py:517
+msgid "Front Door"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules_engine/devices/entry/location_entryrules_microservice.py:518
+msgid "Back/Side Door"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules_engine/devices/entry/location_entryrules_microservice.py:519
+msgid "Exit Door"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules_engine/devices/entry/location_entryrules_microservice.py:530
+msgid ""
+"Install this entry sensor anywhere inside or outside of the home, but not"
+" on the perimeter. You can create your own rules. This will not "
+"automatically help save energy or protect the home."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules_engine/devices/entry/location_entryrules_microservice.py:541
+#: ../.com.ppc.StartFree/intelligence/free_rules_engine/devices/motion/location_motionrules_microservice.py:353
+msgid "Install somewhere else"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules_engine/devices/motion/location_motionrules_microservice.py:39
+msgid "The '{}' detected motion"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules_engine/devices/motion/location_motionrules_microservice.py:78
+msgid "The '{}' didn't detect any motion for more than {}:{} minutes"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules_engine/devices/motion/location_motionrules_microservice.py:145
+#: ../.com.ppc.StartFree/intelligence/free_rules_engine/devices/motion/location_motionrules_microservice.py:211
+msgid "Motion Sensors"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules_engine/devices/motion/location_motionrules_microservice.py:151
+msgid "When my '{}' detects motion"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules_engine/devices/motion/location_motionrules_microservice.py:217
+msgid "When my '{}' doesn't detect any motion for more than {} minutes"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules_engine/devices/motion/location_motionrules_microservice.py:285
+msgid "For how long?"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules_engine/devices/motion/location_motionrules_microservice.py:293
+msgid ""
+"The motion sensor will recognize movement patterns to help increase "
+"safety, protect your home, and reduce energy consumption. You will "
+"receive alerts if motion is detected while you are in away mode."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules_engine/devices/motion/location_motionrules_microservice.py:295
+msgid "A security alarm will trigger if motion is detected."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules_engine/devices/motion/location_motionrules_microservice.py:306
+msgid "Inside the home (default)"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules_engine/devices/motion/location_motionrules_microservice.py:316
+msgid "Kitchen Motion Sensor"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules_engine/devices/motion/location_motionrules_microservice.py:317
+msgid "Hallway Motion Sensor"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules_engine/devices/motion/location_motionrules_microservice.py:318
+msgid "Living Room Motion Sensor"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules_engine/devices/motion/location_motionrules_microservice.py:319
+msgid "Bedroom Motion Sensor"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules_engine/devices/motion/location_motionrules_microservice.py:320
+msgid "Bathroom Motion Sensor"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules_engine/devices/motion/location_motionrules_microservice.py:340
+msgid ""
+"Install this motion sensor anywhere indoors and manage it with your own "
+"custom rules. This will not automatically help increase safety, save "
+"energy, or secure the home."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules_engine/devices/motion/location_motionrules_microservice.py:342
+msgid "This will NOT trigger a security alarm when motion is detected."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules_engine/location/location_daylightrules_microservice.py:22
+msgid "It's sunrise"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules_engine/location/location_daylightrules_microservice.py:31
+msgid "It's sunset"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules_engine/location/location_daylightrules_microservice.py:42
+msgid "it is daytime"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules_engine/location/location_daylightrules_microservice.py:55
+msgid "it is nighttime"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules_engine/location/location_daylightrules_microservice.py:86
+#: ../.com.ppc.StartFree/intelligence/free_rules_engine/location/location_daylightrules_microservice.py:116
+msgid "On sunrise or sunset..."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules_engine/location/location_daylightrules_microservice.py:147
+#: ../.com.ppc.StartFree/intelligence/free_rules_engine/location/location_daylightrules_microservice.py:169
+msgid "Daytime or nighttime..."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules_engine/location/location_moderules_microservice.py:28
+msgid "You went into {} mode"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules_engine/location/location_moderules_microservice.py:40
+msgid "you were in {} mode"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules_engine/location/location_moderules_microservice.py:51
+msgid "switched into {} mode"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules_engine/location/location_moderules_microservice.py:81
+msgid "When I enter some mode..."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules_engine/location/location_moderules_microservice.py:155
+msgid "While I am in some mode..."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules_engine/location/location_moderules_microservice.py:221
+msgid "Switch modes..."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules_engine/location/location_notificationrules_microservice.py:53
+msgid "{}. This notification was generated from a rule you created."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules_engine/location/location_notificationrules_microservice.py:90
+msgid "Notify people who live here"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules_engine/location/location_timerules_microservice.py:47
+msgid "Your scheduled rule fired"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules_engine/location/location_timerules_microservice.py:66
+msgid "Your one-shot timer fired"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules_engine/location/location_timerules_microservice.py:87
+msgid "the time is between {} and {} on {}"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules_engine/location/location_timerules_microservice.py:128
+msgid "On a schedule..."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules_engine/location/location_timerules_microservice.py:134
+msgid "When the time is {} on {}"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules_engine/location/location_timerules_microservice.py:170
+msgid "What time?"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules_engine/location/location_timerules_microservice.py:198
+#: ../.com.ppc.StartFree/intelligence/free_rules_engine/location/location_timerules_microservice.py:434
+msgid "On which days?"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules_engine/location/location_timerules_microservice.py:209
+#: ../.com.ppc.StartFree/intelligence/free_rules_engine/location/location_timerules_microservice.py:445
+msgid "Monday"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules_engine/location/location_timerules_microservice.py:214
+#: ../.com.ppc.StartFree/intelligence/free_rules_engine/location/location_timerules_microservice.py:450
+msgid "Tuesday"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules_engine/location/location_timerules_microservice.py:219
+#: ../.com.ppc.StartFree/intelligence/free_rules_engine/location/location_timerules_microservice.py:455
+msgid "Wednesday"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules_engine/location/location_timerules_microservice.py:224
+#: ../.com.ppc.StartFree/intelligence/free_rules_engine/location/location_timerules_microservice.py:460
+msgid "Thursday"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules_engine/location/location_timerules_microservice.py:229
+#: ../.com.ppc.StartFree/intelligence/free_rules_engine/location/location_timerules_microservice.py:465
+msgid "Friday"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules_engine/location/location_timerules_microservice.py:234
+#: ../.com.ppc.StartFree/intelligence/free_rules_engine/location/location_timerules_microservice.py:470
+msgid "Saturday"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules_engine/location/location_timerules_microservice.py:239
+#: ../.com.ppc.StartFree/intelligence/free_rules_engine/location/location_timerules_microservice.py:475
+msgid "Sunday"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules_engine/location/location_timerules_microservice.py:244
+#: ../.com.ppc.StartFree/intelligence/free_rules_engine/location/location_timerules_microservice.py:480
+msgid "Weekdays"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules_engine/location/location_timerules_microservice.py:249
+#: ../.com.ppc.StartFree/intelligence/free_rules_engine/location/location_timerules_microservice.py:485
+msgid "Weekends"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules_engine/location/location_timerules_microservice.py:273
+msgid "In a few minutes from now..."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules_engine/location/location_timerules_microservice.py:279
+msgid "In {} minutes from now"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules_engine/location/location_timerules_microservice.py:311
+msgid "How many minutes from now?"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules_engine/location/location_timerules_microservice.py:331
+msgid "When the time is between..."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules_engine/location/location_timerules_microservice.py:337
+msgid "The time is between {} and {} on {}"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules_engine/location/location_timerules_microservice.py:374
+msgid "Between what start time...?"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/free_rules_engine/location/location_timerules_microservice.py:402
+msgid "... and what end time?"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/last_seen/location_lastseen_microservice.py:76
+msgid "Occupants should be asleep, but multiple people are near the '{}'"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/last_seen/location_lastseen_microservice.py:78
+msgid "Occupants should be asleep, but someone is near the '{}'"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/last_seen/location_lastseen_microservice.py:85
+#: ../.com.ppc.StartFree/intelligence/last_seen/location_lastseen_microservice.py:133
+msgid "Last Seen"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/last_seen/location_lastseen_microservice.py:96
+msgid "Multiple people are near the '{}'"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/last_seen/location_lastseen_microservice.py:98
+msgid "Someone is near the '{}'"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/last_seen/location_lastseen_microservice.py:134
+msgid "Occupants should be asleep, but someone was last seen near the '{}'"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/last_seen/location_lastseen_microservice.py:149
+msgid "Someone was last seen near the '{}'"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/last_seen/location_lastseen_microservice.py:167
+msgid "Someone was last seen opening the '{}'"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/last_seen/location_lastseen_microservice.py:186
+msgid "Someone was last seen closing the '{}'"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/new_devices/location_newdevices_microservice.py:68
+msgid "{} Added"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/new_devices/location_newdevices_microservice.py:69
+#: ../.com.ppc.StartFree/intelligence/new_devices/location_newdevices_microservice.py:93
+msgid "A new {} called '{}' has been added to this location."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/new_devices/location_newdevices_microservice.py:107
+msgid "Your new motion sensor is connected and has detected motion!"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/new_devices/location_newdevices_microservice.py:111
+msgid "Your new entry sensor is connected and just opened!"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/new_devices/location_newdevices_microservice.py:114
+msgid "Your new entry sensor is connected and just closed!"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/new_devices/location_newdevices_microservice.py:129
+msgid "{} Removed"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/new_devices/location_newdevices_microservice.py:130
+msgid "The {} called '{}' has been removed from this location."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/occupancy/location_occupancyrules_microservice.py:25
+msgid "Someone just arrived back home"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/occupancy/location_occupancyrules_microservice.py:28
+msgid "Someone woke up"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/occupancy/location_occupancyrules_microservice.py:31
+msgid "Everyone appears to have left the home"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/occupancy/location_occupancyrules_microservice.py:34
+msgid "Someone is expected back home soon"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/occupancy/location_occupancyrules_microservice.py:37
+msgid "Everyone appears to be on vacation"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/occupancy/location_occupancyrules_microservice.py:40
+msgid "People are likely asleep"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/occupancy/location_occupancyrules_microservice.py:55
+msgid "someone is home"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/occupancy/location_occupancyrules_microservice.py:58
+msgid "nobody is home"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/occupancy/location_occupancyrules_microservice.py:61
+msgid "everyone is sleeping"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/occupancy/location_occupancyrules_microservice.py:64
+msgid "everyone is on vacation"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/occupancy/location_occupancyrules_microservice.py:96
+#: ../.com.ppc.StartFree/intelligence/occupancy/location_occupancyrules_microservice.py:187
+msgid "When people are doing something..."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/occupancy/away/location_away_microservice.py:227
+#: ../.com.ppc.StartFree/intelligence/occupancy/away/location_away_microservice.py:257
+msgid "Someone appears to be present."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/occupancy/away/location_away_microservice.py:228
+msgid "The '{}' detected motion."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/occupancy/away/location_away_microservice.py:258
+msgid "A new device was recently added."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/occupancy/away/location_away_microservice.py:466
+#: ../.com.ppc.StartFree/intelligence/occupancy/away/location_away_microservice.py:537
+msgid "Left home once today."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/occupancy/away/location_away_microservice.py:468
+#: ../.com.ppc.StartFree/intelligence/occupancy/away/location_away_microservice.py:539
+msgid "Left home {} times today."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/occupancy/away/location_away_microservice.py:732
+msgid "Hasn't left the home today."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/occupancy/sleep/location_sleep_microservice.py:205
+msgid "Night time"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/occupancy/sleep/location_sleep_microservice.py:207
+msgid "Approximately how many house does everyone sleep each night?"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/occupancy/sleep/location_sleep_microservice.py:384
+#: ../.com.ppc.StartFree/intelligence/occupancy/sleep/location_sleep_microservice.py:502
+msgid "Sleep Update"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/occupancy/sleep/location_sleep_microservice.py:385
+msgid "Getting ready for the evening."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/occupancy/sleep/location_sleep_microservice.py:503
+msgid "Not much activity recently, aligning with a predicted bedtime."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/occupancy/sleep/location_sleep_microservice.py:675
+msgid "Optimal time to go to sleep is around {} tonight."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/occupancy/sleep/location_sleep_microservice.py:959
+msgid "Predicting Sleep"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/occupancy/sleep/location_sleep_microservice.py:960
+msgid "Next optimal sleep time is predicted to be {} on {}."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/occupancy/sleep/location_sleepflow_microservice.py:625
+msgid "Sleep Flow: You don't appear to be home"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/occupancy/sleep/location_sleepflow_microservice.py:626
+msgid ""
+"You don't appear to be home to go to sleep, but this home needs to start "
+"getting some sleep soon."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/occupancy/sleep/location_sleepflow_microservice.py:761
+msgid "Sleep Flow: Got woken up"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/occupancy/sleep/location_sleepflow_microservice.py:762
+msgid "The house woke up early because there was a lot of activity detected."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/occupancy/sleep/location_sleepflow_microservice.py:806
+msgid "Sleep Flow: It's early afternoon."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/occupancy/sleep/location_sleepflow_microservice.py:807
+msgid ""
+"It's now early afternoon and we haven't seen any movement in the home. "
+"Declaring that this home is awake so we can get on with our day."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/occupancy/sleep/location_sleepflow_microservice.py:956
+msgid "Sleep Flow: Forecasting bedtime"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/occupancy/sleep/location_sleepflow_microservice.py:957
+msgid ""
+"Forecasting the approximate time to start searching for sleep activities "
+"tonight."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/occupancy/sleep/location_sleepflow_microservice.py:1090
+#: ../.com.ppc.StartFree/intelligence/occupancy/sleep/location_sleepflow_microservice.py:1105
+msgid "Sleep Flow: Prioritizing duration of sleep"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/occupancy/sleep/location_sleepflow_microservice.py:1091
+msgid ""
+"It seems like you usually prefer a full night's sleep on a night like "
+"tonight."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/occupancy/sleep/location_sleepflow_microservice.py:1106
+#: ../.com.ppc.StartFree/intelligence/occupancy/sleep/location_sleepflow_microservice.py:1154
+msgid "Still learning sleep patterns."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/occupancy/sleep/location_sleepflow_microservice.py:1138
+#: ../.com.ppc.StartFree/intelligence/occupancy/sleep/location_sleepflow_microservice.py:1153
+msgid "Sleep Flow: Prioritizing fixed time to wake"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/occupancy/sleep/location_sleepflow_microservice.py:1139
+msgid "It seems like you usually get up at a specific time tomorrow morning."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/occupancy/sleep/location_sleepflow_microservice.py:1222
+msgid "Sleep Flow: Recommending status {}"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/occupancy/sleep/location_sleepflow_microservice.py:1223
+msgid "Recommend occupancy {}"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/occupancy/vacation/location_vacation_microservice.py:272
+msgid "House Keeping"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/occupancy/vacation/location_vacation_microservice.py:273
+msgid ""
+"It appears a visitor came earlier today while you were on vacation. We've"
+" put the home back into a vacation energy saving state."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/occupancy_to_narrative/location_occupancy_narrative_microservice.py:77
+#: ../.com.ppc.StartFree/intelligence/occupancy_to_narrative/location_occupancy_narrative_microservice.py:92
+#: ../.com.ppc.StartFree/intelligence/occupancy_to_narrative/location_occupancy_narrative_microservice.py:95
+#: ../.com.ppc.StartFree/intelligence/occupancy_to_narrative/location_occupancy_narrative_microservice.py:98
+msgid "You toggled into {} mode."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/occupancy_to_narrative/location_occupancy_narrative_microservice.py:81
+#: ../.com.ppc.StartFree/intelligence/occupancy_to_narrative/location_occupancy_narrative_microservice.py:161
+#: ../.com.ppc.StartFree/intelligence/occupancy_to_narrative/location_occupancy_narrative_microservice.py:183
+#: ../.com.ppc.StartFree/intelligence/occupancy_to_narrative/location_occupancy_narrative_microservice.py:205
+#: ../.com.ppc.StartFree/intelligence/occupancy_to_narrative/location_occupancy_narrative_microservice.py:227
+msgid "Present"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/occupancy_to_narrative/location_occupancy_narrative_microservice.py:81
+msgid "The home is set to occupied because the security system was disarmed."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/occupancy_to_narrative/location_occupancy_narrative_microservice.py:84
+#: ../.com.ppc.StartFree/intelligence/occupancy_to_narrative/location_occupancy_narrative_microservice.py:248
+msgid "Present since {} on {}."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/occupancy_to_narrative/location_occupancy_narrative_microservice.py:162
+msgid "The home appears to be occupied because motion was detected."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/occupancy_to_narrative/location_occupancy_narrative_microservice.py:172
+#: ../.com.ppc.StartFree/intelligence/occupancy_to_narrative/location_occupancy_narrative_microservice.py:194
+#: ../.com.ppc.StartFree/intelligence/occupancy_to_narrative/location_occupancy_narrative_microservice.py:216
+#: ../.com.ppc.StartFree/intelligence/occupancy_to_narrative/location_occupancy_narrative_microservice.py:237
+msgid "Back Home"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/occupancy_to_narrative/location_occupancy_narrative_microservice.py:173
+msgid "Motion was detected recently."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/occupancy_to_narrative/location_occupancy_narrative_microservice.py:184
+msgid "The home appears to be occupied because an entry sensor opened."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/occupancy_to_narrative/location_occupancy_narrative_microservice.py:195
+msgid "Entry sensor opened."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/occupancy_to_narrative/location_occupancy_narrative_microservice.py:206
+msgid "The home appears to be occupied because a smart lock unlocked."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/occupancy_to_narrative/location_occupancy_narrative_microservice.py:217
+msgid "Smart lock unlocked."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/occupancy_to_narrative/location_occupancy_narrative_microservice.py:228
+msgid "The home appears to be occupied."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/occupancy_to_narrative/location_occupancy_narrative_microservice.py:238
+msgid "Home appears to be occupied."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/occupancy_to_narrative/location_occupancy_narrative_microservice.py:263
+msgid "Came back home after {} hours."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/occupancy_to_narrative/location_occupancy_narrative_microservice.py:266
+msgid "Came back home after {} minutes."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/occupancy_to_narrative/location_occupancy_narrative_microservice.py:268
+msgid "Came back home immediately."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/occupancy_to_narrative/location_occupancy_narrative_microservice.py:274
+msgid "Away from home"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/occupancy_to_narrative/location_occupancy_narrative_microservice.py:275
+msgid ""
+"The home appears to be unoccupied because a door closed and there hasn't "
+"been recent motion detected in the home."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/occupancy_to_narrative/location_occupancy_narrative_microservice.py:281
+#: ../.com.ppc.StartFree/intelligence/occupancy_to_narrative/location_occupancy_narrative_microservice.py:515
+msgid "Absent since {} on {}."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/occupancy_to_narrative/location_occupancy_narrative_microservice.py:293
+msgid "Absent"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/occupancy_to_narrative/location_occupancy_narrative_microservice.py:294
+msgid "Appears to be absent since {} on {}."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/occupancy_to_narrative/location_occupancy_narrative_microservice.py:313
+msgid "Predicting when occupants will be back."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/occupancy_to_narrative/location_occupancy_narrative_microservice.py:314
+msgid "Expected back in {} minutes, which is {} on {}."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/occupancy_to_narrative/location_occupancy_narrative_microservice.py:320
+msgid "Expected back by {} on {}."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/occupancy_to_narrative/location_occupancy_narrative_microservice.py:333
+msgid "Left the home."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/occupancy_to_narrative/location_occupancy_narrative_microservice.py:339
+msgid "Likely Asleep"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/occupancy_to_narrative/location_occupancy_narrative_microservice.py:339
+msgid ""
+"The occupants appear to be asleep because it's bedtime and motion has not"
+" been detected recently outside of bedrooms and bathrooms."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/occupancy_to_narrative/location_occupancy_narrative_microservice.py:342
+msgid "Appears to be asleep since {} on {}."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/occupancy_to_narrative/location_occupancy_narrative_microservice.py:354
+msgid "Likely Sleeping"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/occupancy_to_narrative/location_occupancy_narrative_microservice.py:355
+msgid "Occupants appear to be asleep."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/occupancy_to_narrative/location_occupancy_narrative_microservice.py:367
+msgid "Might have gone to sleep. {} is still learning your sleep patterns."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/occupancy_to_narrative/location_occupancy_narrative_microservice.py:374
+#: ../.com.ppc.StartFree/intelligence/occupancy_to_narrative/location_occupancy_narrative_microservice.py:392
+msgid "Vacation"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/occupancy_to_narrative/location_occupancy_narrative_microservice.py:374
+msgid "{} assumes you are on vacation."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/occupancy_to_narrative/location_occupancy_narrative_microservice.py:380
+msgid "Vacation since {}."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/occupancy_to_narrative/location_occupancy_narrative_microservice.py:393
+msgid "On vacation since {}."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/occupancy_to_narrative/location_occupancy_narrative_microservice.py:401
+msgid "Hopefully enjoying a vacation."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/occupancy_to_narrative/location_occupancy_narrative_microservice.py:407
+msgid "Going to sleep later"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/occupancy_to_narrative/location_occupancy_narrative_microservice.py:407
+msgid "{} assumes you will go to sleep in the next few hours."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/occupancy_to_narrative/location_occupancy_narrative_microservice.py:410
+msgid "Going to sleep in a while."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/occupancy_to_narrative/location_occupancy_narrative_microservice.py:424
+msgid "Waking up soon"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/occupancy_to_narrative/location_occupancy_narrative_microservice.py:424
+msgid "{} expects you to wake up soon."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/occupancy_to_narrative/location_occupancy_narrative_microservice.py:427
+msgid "Sleeping. Expected to wake up soon."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/occupancy_to_narrative/location_occupancy_narrative_microservice.py:439
+msgid "Sleeping"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/occupancy_to_narrative/location_occupancy_narrative_microservice.py:440
+msgid "Expected to wake up soon."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/occupancy_to_narrative/location_occupancy_narrative_microservice.py:452
+msgid "Going away"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/occupancy_to_narrative/location_occupancy_narrative_microservice.py:452
+msgid "You are probably away, but {} is not certain yet."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/occupancy_to_narrative/location_occupancy_narrative_microservice.py:459
+#: ../.com.ppc.StartFree/intelligence/occupancy_to_narrative/location_occupancy_narrative_microservice.py:472
+msgid "May have left at {} on {}."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/occupancy_to_narrative/location_occupancy_narrative_microservice.py:471
+msgid "Going Away?"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/occupancy_to_narrative/location_occupancy_narrative_microservice.py:485
+msgid "Coming back home"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/occupancy_to_narrative/location_occupancy_narrative_microservice.py:485
+msgid "{} assumes you will be home soon."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/occupancy_to_narrative/location_occupancy_narrative_microservice.py:488
+#: ../.com.ppc.StartFree/intelligence/occupancy_to_narrative/location_occupancy_narrative_microservice.py:501
+msgid "Absent since {} on {}. Expected home soon."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/occupancy_to_narrative/location_occupancy_narrative_microservice.py:500
+msgid "Home Soon"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/occupancy_to_narrative/location_occupancy_narrative_microservice.py:514
+msgid "Away from Home"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/sms_intro/location_smsintro_microservice.py:228
+msgid "SMS Commands Delivered"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/sms_intro/location_smsintro_microservice.py:229
+msgid ""
+"Sent a reminder to {} about what SMS commands can be used at this "
+"location."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/sms_intro/location_smsintro_microservice.py:295
+#: ../.com.ppc.StartFree/intelligence/sms_intro/location_smsintro_microservice.py:327
+msgid "{}: Hi {}"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/sms_intro/location_smsintro_microservice.py:299
+#: ../.com.ppc.StartFree/intelligence/sms_intro/location_smsintro_microservice.py:331
+msgid "{}: Hi"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/sms_intro/location_smsintro_microservice.py:303
+msgid ""
+" - Your texting status has changed for '{}', and you will no longer be "
+"able to text commands to that location."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/sms_intro/location_smsintro_microservice.py:335
+msgid ""
+", save this phone number in your contacts. Use it to text commands to "
+"'{}' from your phone only. Reply with 'Help' anytime to get a list of "
+"commands. Let me share with you a list of commands..."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/sms_intro/location_smsintro_microservice.py:345
+msgid "SMS Introduction Sent"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/sms_intro/location_smsintro_microservice.py:346
+msgid ""
+"Sent an introduction to {} to let them know how to send SMS text message "
+"commands to this location."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/sms_intro/location_smsintro_microservice.py:376
+msgid ""
+"You can manage security and energy at '{}' by replying to this phone # "
+"with the following commands: Arm, Disarm, {}, {}, {}, Vacation, {}"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/sms_intro/location_smsintro_microservice.py:379
+msgid ""
+"You can manage security at '{}' by replying to this phone # with the "
+"following commands: Arm, Disarm, {}, {}, {}, {}"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/sms_intro/location_smsintro_microservice.py:382
+msgid ""
+"You can manage energy at '{}' by replying to this phone # with the "
+"following commands: {}, {}, {}, Vacation, {}"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/sms_intro/location_smsintro_microservice.py:402
+msgid ""
+"You can control your locks at '{}' by replying to this phone # with the "
+"following commands: Lock and Unlock"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/sms_invite/location_smsinvite_microservice.py:168
+msgid "Hi {}"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/sms_invite/location_smsinvite_microservice.py:172
+msgid "Hi"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/sms_invite/location_smsinvite_microservice.py:178
+msgid "Resending this invite. "
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/sms_invite/location_smsinvite_microservice.py:192
+msgid ""
+"{} has invited you into their Trusted Circle to receive SMS alerts from "
+"their smart home with {} when something goes wrong."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/sms_invite/location_smsinvite_microservice.py:196
+msgid ""
+"{} has invited you into their Trusted Circle to receive SMS alerts from "
+"their smart home '{}' with {} when something goes wrong."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/sms_invite/location_smsinvite_microservice.py:203
+msgid ""
+"The {} family has invited you into their Trusted Circle to receive SMS "
+"alerts from their smart home with {} when something goes wrong."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/sms_invite/location_smsinvite_microservice.py:205
+msgid ""
+"You've been invited into a Trusted Circle to receive SMS alerts from a "
+"friend's smart home with {} when something goes wrong."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/sms_invite/location_smsinvite_microservice.py:211
+msgid ""
+"The {} family has invited you into their Trusted Circle to receive SMS "
+"alerts from their smart home '{}' with {} when something goes wrong."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/sms_invite/location_smsinvite_microservice.py:213
+msgid ""
+"You've been invited into a Trusted Circle to receive SMS alerts from a "
+"friend's smart home '{}' with {} when something goes wrong."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/sms_invite/location_smsinvite_microservice.py:218
+#: ../.com.ppc.StartFree/intelligence/sms_invite/location_smsinvite_microservice.py:296
+msgid "Reply 'STOP' to opt-out of receiving alerts."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/sms_invite/location_smsinvite_microservice.py:231
+msgid ""
+"You are invited to control devices by downloading and signing into the {}"
+" app."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/sms_invite/location_smsinvite_microservice.py:261
+msgid ""
+"{} has invited you into the Trusted Circle to interact with their smart "
+"home with {}. To accept, download and sign into the app: "
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/sms_invite/location_smsinvite_microservice.py:265
+msgid ""
+"{} has invited you into the Trusted Circle to interact with from their "
+"smart home '{}' with {}. To accept, download and sign into the app: "
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/sms_invite/location_smsinvite_microservice.py:273
+msgid ""
+"The {} family has invited you into the Trusted Circle to interact with "
+"their smart home with {}. To accept, download and sign into the app: "
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/sms_invite/location_smsinvite_microservice.py:275
+msgid ""
+"You've been invited into a Trusted Circle to interact with a friend's "
+"smart home with {}. To accept, download and sign into the app: "
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/sms_invite/location_smsinvite_microservice.py:281
+msgid ""
+"The {} family has invited you into the Trusted Circle to interact with "
+"their smart home '{}' with {}. To accept, download and sign into the app:"
+" "
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/sms_invite/location_smsinvite_microservice.py:283
+msgid ""
+"You've been invited into a Trusted Circle to interact with a friend's "
+"smart home '{}' with {}. To accept, download and sign into the app: "
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/sms_invite/location_smsinvite_microservice.py:306
+msgid "Sent an SMS invitation."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/sms_invite/location_smsinvite_microservice.py:310
+msgid "Sent an SMS invitation to {}."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/sms_invite/location_smsinvite_microservice.py:313
+msgid "SMS Invitation Sent"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/tag_gateways/location_autotag_microservice.py:66
+msgid "{} Smart Home Center Installed"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/tag_gateways/location_autotag_microservice.py:67
+msgid ""
+"Location ID {} now has a Smart Home Center gateway. Please find a time to"
+" reach out, welcome this new user, and answer any questions."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/tag_gateways/location_autotag_microservice.py:71
+msgid "Smart Home Center Installed: '{}'"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/tag_gateways/location_autotag_microservice.py:72
+msgid ""
+"Location ID {} now has a Smart Home Center. Please find a time to reach "
+"out, welcome this new user, and answer any questions."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/tag_presencefamilypack/location_presencefamilypack_microservice.py:208
+msgid "Ready to finish installing your {} Pack?"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/tag_presencefamilypack/location_presencefamilypack_microservice.py:212
+msgid "{} Pack Incomplete"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/tag_presencefamilypack/location_presencefamilypack_microservice.py:213
+msgid ""
+"It has been 24-hours since someone started to install the {} Pack, but "
+"never finished the installation at '{}', location ID {}. The location has"
+" {} gateway(s), {} entry sensor(s), and {} motion sensor(s)."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/tag_presencefamilypack/location_presencefamilypack_microservice.py:336
+msgid "Vayyar Home Installed!"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/tag_presencefamilypack/location_presencefamilypack_microservice.py:337
+msgid ""
+"Congratulations! Vayyar Home is installed! Please check out the {} Store "
+"online for additional add-on products and services."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/tag_presencefamilypack/location_presencefamilypack_microservice.py:344
+#: ../.com.ppc.StartFree/intelligence/tag_presencefamilypack/location_presencefamilypack_microservice.py:353
+msgid "Vayyar Home Installed"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/tag_presencefamilypack/location_presencefamilypack_microservice.py:345
+msgid "Vayyar Home has been installed at '{}'."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/tag_presencefamilypack/location_presencefamilypack_microservice.py:354
+msgid "Vayyar Home has been installed at '{}', location ID {}."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/tag_presencefamilypack/location_presencefamilypack_microservice.py:362
+#: ../.com.ppc.StartFree/intelligence/tag_presencefamilypack/location_presencefamilypack_microservice.py:430
+msgid "Learning lifestyle patterns."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/tag_presencefamilypack/location_presencefamilypack_microservice.py:372
+#: ../.com.ppc.StartFree/intelligence/tag_presencefamilypack/location_presencefamilypack_microservice.py:440
+msgid "First week learning complete."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/tag_presencefamilypack/location_presencefamilypack_microservice.py:404
+msgid "{} Pack Installed!"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/tag_presencefamilypack/location_presencefamilypack_microservice.py:405
+msgid ""
+"Congratulations! Your {} Pack is installed! Please check out the {} Store"
+" online for additional add-on products and services."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/tag_presencefamilypack/location_presencefamilypack_microservice.py:412
+#: ../.com.ppc.StartFree/intelligence/tag_presencefamilypack/location_presencefamilypack_microservice.py:421
+msgid "{} Pack Installed"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/tag_presencefamilypack/location_presencefamilypack_microservice.py:413
+msgid "The {} Pack has been fully installed at '{}'."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/tag_presencefamilypack/location_presencefamilypack_microservice.py:422
+msgid "The {} Pack has been installed at '{}', location ID {}."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/tag_presencefamilypack/location_presencefamilypack_microservice.py:471
+msgid "Add Devices"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/tag_presencefamilypack/location_presencefamilypack_microservice.py:472
+msgid ""
+"Tap on [+] in the top-right corner, then 'Add a Device' to add a Vayyar "
+"Home or Smart Home Center."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/tag_presencefamilypack/location_presencefamilypack_microservice.py:490
+msgid "Add an Entry Sensor"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/tag_presencefamilypack/location_presencefamilypack_microservice.py:491
+msgid ""
+"Tap on [+] in the top-right corner, then 'Add a Device' to add an Entry "
+"Sensor."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/tag_presencefamilypack/location_presencefamilypack_microservice.py:506
+msgid "Add another Entry Sensor"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/tag_presencefamilypack/location_presencefamilypack_microservice.py:507
+msgid ""
+"Tap on [+] in the top-right corner, then 'Add a Device' to add another "
+"Entry Sensor."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/tag_presencefamilypack/location_presencefamilypack_microservice.py:522
+msgid "Add an Motion Sensor"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/tag_presencefamilypack/location_presencefamilypack_microservice.py:523
+msgid ""
+"Tap on [+] in the top-right corner, then 'Add a Device' to add a Motion "
+"Sensor."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/tag_presencefamilypack/location_presencefamilypack_microservice.py:537
+msgid "Add another Motion Sensor"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/tag_presencefamilypack/location_presencefamilypack_microservice.py:538
+msgid ""
+"Tap on [+] in the top-right corner, then 'Add a Device' to add another "
+"Motion Sensor."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/tasks/location_tasks_microservice.py:147
+msgid "Learn how to create tasks."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/tasks/location_tasks_microservice.py:148
+msgid ""
+"Use {} to easily create and assign household tasks to family and friends!"
+"\n"
+"\n"
+"\t1. Tap the [+] button on your Dashboard.\n"
+"\t2. Select 'Add a Task'.\n"
+"\t3. Fill out details of the task.\n"
+"\n"
+"To assign a task to someone, first invite them to your home. Set their "
+"Smart Home Access to 'Allow App Access' and Alert Texting to anything "
+"except 'No Alerts'.\n"
+"\n"
+"People can use their {} app to mark their tasks complete, and you will "
+"get notified. Enjoy!"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/tasks/location_tasks_microservice.py:305
+msgid "A task was added: {}"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/tasks/location_tasks_microservice.py:308
+msgid "{} added a task: {}"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/tasks/location_tasks_microservice.py:311
+msgid "A task was assigned to {}: {}"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/tasks/location_tasks_microservice.py:312
+msgid "You've been assigned a new task."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/tasks/location_tasks_microservice.py:316
+msgid "{} will take on a new task: {}"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/tasks/location_tasks_microservice.py:318
+msgid "{} assigned a task to {}: {}"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/tasks/location_tasks_microservice.py:319
+msgid ""
+"{} assigned you a new task. To view it and mark it complete, please "
+"download and sign into the {} app."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/tasks/location_tasks_microservice.py:332
+msgid "{} assigned you a new task: '{}'"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/tasks/location_tasks_microservice.py:335
+#: ../.com.ppc.StartFree/intelligence/tasks/location_tasks_microservice.py:370
+msgid "Task created"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/tasks/location_tasks_microservice.py:353
+msgid "A task was updated: {}"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/tasks/location_tasks_microservice.py:356
+#: ../.com.ppc.StartFree/intelligence/tasks/location_tasks_microservice.py:364
+msgid "{} updated a task: {}"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/tasks/location_tasks_microservice.py:359
+msgid "Updated a task assigned to {}: {}"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/tasks/location_tasks_microservice.py:360
+msgid "A task assigned to you has been updated."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/tasks/location_tasks_microservice.py:366
+msgid "{} updated a task assigned to {}: {}"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/tasks/location_tasks_microservice.py:367
+msgid "{} updated a task assigned to you."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/tasks/location_tasks_microservice.py:390
+msgid "{} marked a task complete: {}"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/tasks/location_tasks_microservice.py:395
+msgid "{} completed a task: '{}'"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/tasks/location_tasks_microservice.py:398
+msgid "A task was marked complete: {}"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/tasks/location_tasks_microservice.py:401
+msgid "Task completed"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/tasks_system/location_systemtasks_microservice.py:291
+msgid "Add People to your Trusted Circle."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/tasks_system/location_systemtasks_microservice.py:292
+msgid ""
+"Build out your Trusted Circle of family and friends to watch over your "
+"home!\n"
+"\n"
+"Tap into the Trusted Circle tab in your app.\n"
+"\n"
+"Select the [+] button in the top-right corner of your screen to add "
+"people to your Trusted Circle.\n"
+"\n"
+"You can assign each person roles including whether they can receive "
+"alerts and manage devices."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/tasks_system/location_systemtasks_microservice.py:317
+msgid "Set up the Emergency Call Center."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/tasks_system/location_systemtasks_microservice.py:318
+msgid ""
+"Add people to your Emergency Call Center call tree.\n"
+"\n"
+"Tap into the Trusted Circle tab in your app.\n"
+"\n"
+"Select the Emergency Call Center button at the bottom of your screen to "
+"add people to the call tree.\n"
+"\n"
+"When a critical event happens, the Emergency Call Center will attempt to "
+"contact the homeowner first, followed by each person in the call tree."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/tasks_system/location_systemtasks_microservice.py:378
+msgid "Add devices."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/test_mode/location_testmode_microservice.py:108
+msgid ""
+"This home does not have any connected devices to test. {} will now exit "
+"test mode."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/test_mode/location_testmode_microservice.py:111
+msgid "Test mode: No connected devices"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/test_mode/location_testmode_microservice.py:112
+msgid ""
+"This location does not have any connected devices to test. Please contact"
+" customer support."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/test_mode/location_testmode_microservice.py:132
+msgid ""
+"Test mode is unavailable for this user because their Alert Texting role "
+"is set to 'No Alerts'."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/test_mode/location_testmode_microservice.py:146
+msgid "Test Mode"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/test_mode/location_testmode_microservice.py:147
+msgid "{} is testing this home via SMS text messaging. All services are disabled."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/test_mode/location_testmode_microservice.py:152
+msgid "{} will now send {} SMS messages to walk through system testing."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/test_mode/location_testmode_microservice.py:245
+msgid ""
+"{}: You entered TEST mode! Let's walk through the home and make sure your"
+" system is working."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/test_mode/location_testmode_microservice.py:253
+msgid ""
+"To start with, the '{}' is offline. If you are having problems with it, "
+"please reply 'Support' to request a call from Customer Support."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/test_mode/location_testmode_microservice.py:260
+msgid ""
+"Since this Smart Home Center is offline and there are no other connected "
+"devices at this time, we have nothing else we can test at the moment. {} "
+"will now resume normal operation by entering HOME mode."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/test_mode/location_testmode_microservice.py:268
+msgid ""
+"To start with, you have several Smart Home Centers offline. If you are "
+"having problems with them, please reply 'Support' to request a call from "
+"Customer Support."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/test_mode/location_testmode_microservice.py:275
+msgid ""
+"Since those Smart Home Centers are offline and there are no other "
+"connected devices at this time, we have nothing else we can test at the "
+"moment. {} will now resume normal operation by entering HOME mode."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/test_mode/location_testmode_microservice.py:284
+msgid ""
+"You don't have any Entry Sensors connected to this home. Entry Sensors "
+"are very important to know if the home is occupied, and should be placed "
+"first on doors that you use to leave the house. Please install the Entry "
+"Sensors that came with your {} pack."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/test_mode/location_testmode_microservice.py:293
+msgid "You have one offline Entry Sensor: '{}'."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/test_mode/location_testmode_microservice.py:296
+#: ../.com.ppc.StartFree/intelligence/test_mode/location_testmode_microservice.py:321
+#: ../.com.ppc.StartFree/intelligence/test_mode/location_testmode_microservice.py:342
+#: ../.com.ppc.StartFree/intelligence/test_mode/location_testmode_microservice.py:367
+msgid ""
+"It's probably offline because it had a low battery. Please replace the {}"
+" battery inside."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/test_mode/location_testmode_microservice.py:299
+#: ../.com.ppc.StartFree/intelligence/test_mode/location_testmode_microservice.py:324
+#: ../.com.ppc.StartFree/intelligence/test_mode/location_testmode_microservice.py:345
+#: ../.com.ppc.StartFree/intelligence/test_mode/location_testmode_microservice.py:370
+msgid ""
+"It's battery looks okay, but it does have a low wireless signal strength."
+" Place the Smart Home Center a little closer and higher off the ground to"
+" encourage it to connect."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/test_mode/location_testmode_microservice.py:302
+#: ../.com.ppc.StartFree/intelligence/test_mode/location_testmode_microservice.py:327
+msgid ""
+"I can't tell why it is disconnected. If you have it with you, try re-"
+"pairing it to the Smart Home Center by tapping into the {} app > Devices "
+"tab > [+] in the top right corner > Entry Sensor."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/test_mode/location_testmode_microservice.py:312
+msgid "You have {} offline Entry Sensors. Let's take a look at each one..."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/test_mode/location_testmode_microservice.py:318
+#: ../.com.ppc.StartFree/intelligence/test_mode/location_testmode_microservice.py:364
+msgid "The '{}' is offline."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/test_mode/location_testmode_microservice.py:339
+msgid "You have one offline Motion Sensor: '{}'."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/test_mode/location_testmode_microservice.py:348
+#: ../.com.ppc.StartFree/intelligence/test_mode/location_testmode_microservice.py:373
+msgid ""
+"I can't tell why it is disconnected. If you have it with you, try re-"
+"pairing it to the Smart Home Center by tapping into the {} app > Devices "
+"tab > [+] in the top right corner > Motion Sensor."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/test_mode/location_testmode_microservice.py:358
+msgid "You have {} offline Motion Sensors. Let's take a look at each one..."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/test_mode/location_testmode_microservice.py:384
+msgid "The '{}' is offline, and this one is important for alerts and security."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/test_mode/location_testmode_microservice.py:387
+msgid ""
+"It has a low wireless signal strength. Place it closer to the Smart Home "
+"Center and off the ground to encourage it to connect."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/test_mode/location_testmode_microservice.py:390
+msgid ""
+"I can't tell why it is disconnected. If you have it with you, try re-"
+"pairing it to the Smart Home Center by tapping into the {} app > Devices "
+"tab > [+] in the top right corner > Siren."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/test_mode/location_testmode_microservice.py:415
+msgid ""
+"{}: You have exited TEST mode. The phone number you've received these SMS"
+" messages from is also your private phone number to send SMS commands to "
+"your home. Respond 'HELP' to get a list of commands, or 'SUPPORT' to "
+"request a callback from Customer Support whenever you need assistance."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/test_mode/location_testmode_microservice.py:445
+msgid "Great job! The '{}' opened."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/test_mode/location_testmode_microservice.py:453
+msgid "Great job! The '{}' closed."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/test_mode/location_testmode_microservice.py:466
+msgid "Okay! The '{}' detected motion."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/test_mode/location_testmode_microservice.py:476
+msgid "Great job! The '{}' was pressed."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/test_mode/location_testmode_microservice.py:489
+msgid ""
+"Great job! The '{}' was pressed. Go ahead and press + hold it for 3 "
+"seconds to reset it."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/test_mode/location_testmode_microservice.py:498
+msgid "Okay, the '{}' is reset."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/test_mode/location_testmode_microservice.py:516
+msgid "While you were on your way to the '{}', the '{}' detected motion!"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/test_mode/location_testmode_microservice.py:682
+msgid "Okay, we'll skip that one."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/test_mode/location_testmode_microservice.py:735
+msgid ""
+"Please walk over to the '{}' and close it, or reply 'SKIP' to skip this "
+"device."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/test_mode/location_testmode_microservice.py:742
+msgid ""
+"Please walk over to the '{}' and open it, or reply 'SKIP' to skip this "
+"device."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/test_mode/location_testmode_microservice.py:751
+msgid ""
+"Please walk in front of the '{}' motion sensor, or reply 'SKIP' to skip "
+"this device."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/test_mode/location_testmode_microservice.py:761
+msgid ""
+"Please find the '{}' and press and release the button, or reply 'SKIP' to"
+" skip this device."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/test_mode/location_testmode_microservice.py:770
+msgid "We're out of devices to test! {} will now exit test mode."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/test_mode/location_testmode_microservice.py:806
+msgid ""
+"\n"
+"\n"
+"Please make sure it is on the Perimeter of the home. If not, change its "
+"Behavior by going into the {} app > Devices tab > '{}' device > "
+"Behaviors."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/test_mode/location_testmode_microservice.py:808
+msgid ""
+"\n"
+"\n"
+"Please make sure it is on a medicine cabinet, drawer, or container. If "
+"not, please update its Behavior by going into the {} app > Devices tab > "
+"'{}' device > Behaviors."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/test_mode/location_testmode_microservice.py:810
+msgid ""
+"\n"
+"\n"
+"Please make sure it is not on the Perimeter. If it is along the "
+"perimeter, please update its Behavior by going into the {} app > Devices "
+"tab > '{}' device > Behaviors."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/test_mode/location_testmode_microservice.py:814
+msgid ""
+"\n"
+"\n"
+"Its behavior is set to Arm and Disarm the house. You can press it once to"
+" disarm, or press and hold for 5+ seconds to arm the security system. "
+"Hide it in a place where only trusted people will know where it is "
+"located."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/test_mode/location_testmode_microservice.py:817
+#: ../.com.ppc.StartFree/intelligence/test_mode/location_testmode_microservice.py:839
+msgid ""
+"\n"
+"\n"
+"Its behavior is set to signal for help from people who live here. This "
+"means when you press and release it, it will start flashing a red light "
+"while sending a message to anybody in the Trusted Circle marked 'I Live "
+"Here'."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/test_mode/location_testmode_microservice.py:820
+#: ../.com.ppc.StartFree/intelligence/test_mode/location_testmode_microservice.py:842
+msgid ""
+"\n"
+"\n"
+"Its behavior is set to signal for help from anybody in the Trusted "
+"Circle. This means when you press and release it, it will start flashing "
+"a red light while sending a message to anybody in the Trusted Circle "
+"marked 'I Live Here' or 'Family/Friend'."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/test_mode/location_testmode_microservice.py:823
+msgid ""
+"\n"
+"\n"
+"Its behavior is set to Emergency Medical Alert. This means when you press"
+" and hold it for 5+ seconds, the Trusted Circle and Emergency Call Center"
+" will get notified right away."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/test_mode/location_testmode_microservice.py:826
+msgid ""
+"\n"
+"\n"
+"Its behavior is set to Silent Security Panic Alarm. This means when you "
+"press and hold it for 5+ seconds, police will be dispatched to this "
+"location immediately."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/test_mode/location_testmode_microservice.py:830
+msgid ""
+"\n"
+"\n"
+"Its behavior is set to Doorbell, but you do not have a connected Siren in"
+" your account!"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/test_mode/location_testmode_microservice.py:832
+msgid ""
+"\n"
+"\n"
+"Its behavior is set to Doorbell, which will make your siren sound like a "
+"doorbell when the button is pressed."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/test_mode/location_testmode_microservice.py:836
+msgid ""
+"\n"
+"\n"
+"Its behavior is set to Emergency Medical Alert. This means when you press"
+" and release it, it will start flashing a red light while the Trusted "
+"Circle and Emergency Call Center will get notified. Hold it again for "
+"more than 3 seconds to stop the alert."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/test_mode/location_testmode_microservice.py:854
+msgid ""
+"\n"
+"\n"
+"Also, this device has a low battery ({}) and low wireless signal "
+"strength. Position the Smart Home Center closer to this device and higher"
+" off the ground to encourage a stronger wireless connection."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/test_mode/location_testmode_microservice.py:857
+msgid ""
+"\n"
+"\n"
+"Also, this device has a low battery ({})."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/test_mode/location_testmode_microservice.py:860
+msgid ""
+"\n"
+"\n"
+"Also, this device has low wireless signal strength. Position the Smart "
+"Home Center closer to this device and higher off the ground to encourage "
+"a stronger wireless connection."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/test_mode/location_testmode_microservice.py:872
+msgid "EXIT TEST MODE >"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/test_mode/location_testmode_microservice.py:875
+msgid "Update Mode"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/test_mode/location_testmode_microservice.py:888
+msgid "Exit Test Mode"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/test_mode/location_testmode_microservice.py:889
+msgid "Exiting test mode..."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/test_mode/location_testmode_microservice.py:915
+msgid "{} exited test mode through the app."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/test_mode/location_testmode_microservice.py:917
+msgid "{} exited test mode"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/test_mode/location_testmode_microservice.py:928
+msgid "Someone exited test mode through the app."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/test_mode/location_testmode_microservice.py:930
+msgid "Someone exited test mode"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/welcome/location_welcome_microservice.py:41
+msgid "Reset"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/welcome/location_welcome_microservice.py:42
+msgid "The AI bot has rebooted."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/welcome/location_welcome_microservice.py:53
+msgid "Welcome to {}"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/welcome/location_welcome_microservice.py:55
+msgid "Welcome"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/welcome/location_welcome_microservice.py:60
+msgid ""
+"This screen will capture the history of events that are happening in your"
+" home. Please remember to add other people to help watch over your home "
+"inside the Trusted Circle tab."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/welcome/location_welcome_microservice.py:204
+msgid "Thanks for signing up! Here's how to download {}."
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/welcome/location_welcome_microservice.py:214
+msgid "{} services are activated at \"{}\"!"
+msgstr ""
+
+#: ../.com.ppc.StartFree/intelligence/welcome/location_welcome_microservice.py:221
+msgid "Want a real person to help you set up {} at {}? Check out -> {}."
+msgstr ""
+
+#: ../.com.ppc.StartFree/signals/dashboard.py:12
+msgid "NOW"
+msgstr ""
+
+#: ../.com.ppc.StartFree/signals/dashboard.py:13
+msgid "ALERTS"
+msgstr ""
+
+#: ../.com.ppc.StartFree/signals/dashboard.py:16
+msgid "SERVICES"
+msgstr ""
+
+#: ../.com.ppc.StartFree/signals/dashboard.py:390
+msgid "RUNNING"
+msgstr ""
+
+#: ../.com.ppc.StartFree/signals/dashboard.py:392
+msgid "DISABLED"
+msgstr ""
+
+#: ../.com.ppc.StartFree/signals/dashboard.py:427
+msgid "Resolve"
+msgstr ""
+
+#: ../.com.ppc.StartFree/signals/dashboard.py:427
+msgid "Okay, resolving the notification..."
+msgstr ""
+
+#: ../.com.ppc.StartFree/signals/services.py:11
+msgid "Security Settings"
+msgstr ""
+
+#: ../.com.ppc.StartFree/signals/services.py:13
+msgid "Medication Settings"
+msgstr ""
+
+#: ../.com.ppc.StartFree/signals/services.py:14
+msgid "Social Connector Settings"
+msgstr ""
+
+#: ../.com.ppc.StartFree/signals/services.py:15
+msgid "Energy Settings"
+msgstr ""
+
+#: ../.com.ppc.StartFree/signals/services.py:16
+msgid "Home Automation Settings"
+msgstr ""
+
+#: ../.com.ppc.StartFree/signals/services.py:17
+msgid "Emergency Call Center Settings"
+msgstr ""
+
+#: ../.com.ppc.StartFree/signals/services.py:18
+msgid "Demo Settings"
+msgstr ""
+
+#. "The Moss family <burglary alarm tripped>."
+#: ../.com.ppc.StartFree/utilities/utilities.py:137
+msgid "has a burglar alarm"
+msgstr ""
+
+#. "The Moss family <burglary alarm tripped because a window opened>."
+#: ../.com.ppc.StartFree/utilities/utilities.py:141
+msgid "has a burglar alarm because a window opened"
+msgstr ""
+
+#. "The Moss family <burglary alarm tripped because a door opened>."
+#: ../.com.ppc.StartFree/utilities/utilities.py:145
+msgid "has a burglar alarm because a door opened"
+msgstr ""
+
+#. "The Moss family <is experiencing a water leak>."
+#: ../.com.ppc.StartFree/utilities/utilities.py:149
+msgid "is experiencing a water leak"
+msgstr ""
+
+#. "The Moss family <burglary alarm tripped shortly after arming>."
+#: ../.com.ppc.StartFree/utilities/utilities.py:153
+msgid "has a burglar alarm, shortly after arming"
+msgstr ""
+
+#. "The Moss family <typed a Duress code into the Touchpad>."
+#: ../.com.ppc.StartFree/utilities/utilities.py:157
+msgid "entered a duress code, indicating a potential threat."
+msgstr ""
+
+#. "The Moss family <may need some assistance>." - generic message
+#: ../.com.ppc.StartFree/utilities/utilities.py:161
+msgid "may need some assistance"
+msgstr ""
+
+#: ../.com.ppc.StartFree/utilities/utilities.py:233
+msgid "1 hour"
+msgstr ""
+
+#: ../.com.ppc.StartFree/utilities/utilities.py:235
+msgid "{} hours"
+msgstr ""
+
+#: ../.com.ppc.StartFree/utilities/utilities.py:238
+msgid "1 minute"
+msgstr ""
+
+#: ../.com.ppc.StartFree/utilities/utilities.py:240
+msgid "{} minutes"
+msgstr ""
+
+#: ../.com.ppc.StartFree/utilities/utilities.py:244
+msgid "1 second"
+msgstr ""
+
+#: ../.com.ppc.StartFree/utilities/utilities.py:246
+msgid "{} seconds"
+msgstr ""
+
+#: ../.com.ppc.StartFree/utilities/utilities.py:249
+msgid "0 seconds"
+msgstr ""
+
+#~ msgid "{} family has a water leak."
+#~ msgstr ""
+
+#~ msgid "{} family hasn't made it to bed yet."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "{}: 'STOP' received. You will stop "
+#~ "receiving SMS alerts from '{}'. If "
+#~ "this is a mistake, please ask the"
+#~ " {} family to grant you Alert "
+#~ "Texting access in the {} app "
+#~ "again."
+#~ msgstr ""
+
+#~ msgid "{}: The {} family at '{}' {}. {}"
+#~ msgstr ""
+
+#~ msgid "Add a Smart Home Center"
+#~ msgstr ""
+
+#~ msgid "Can you help? {} family assist button pressed."
+#~ msgstr ""
+
+#~ msgid "Did People Power Family do a good job?"
+#~ msgstr ""
+
+#~ msgid "Dispatch authorized for the {} family."
+#~ msgstr ""
+
+#~ msgid "Emergency Call Center alerted for the {} family."
+#~ msgstr ""
+
+#~ msgid "Expected the {} family to be home over an hour ago."
+#~ msgstr ""
+
+#~ msgid "Set up your smart home."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Tap on [+] in the top-right "
+#~ "corner, then 'Add a Device' to add"
+#~ " a Smart Home Center."
+#~ msgstr ""
+
